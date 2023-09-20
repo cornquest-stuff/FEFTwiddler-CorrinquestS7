@@ -3547,6 +3547,15 @@
     <text lang="Italian" displayName="Teletrasporto" />
     <categories npcOnly="false" personal="false" />
   </item>
+  <item id="399" name="Morbshard" type="Stone" subType="Beaststone" maxUses="0" rank="3">
+    <text lang="English" displayName="Morbshard" />
+    <text lang="Japanese" displayName="Morbshard" />
+    <text lang="Spanish" displayName="Morbshard" />
+    <text lang="French" displayName="Morbshard" />
+    <text lang="German" displayName="Morbshard" />
+    <text lang="Italian" displayName="Morbshard" />
+    <categories npcOnly="false" personal="false" />
+  </item>
   <!-- template: 
   <item id="0" name="InternalName" type="ItemType" subType="ItemSubType" maxUses="0" rank="0">
     <text lang="English" displayName="DisplayName" />
