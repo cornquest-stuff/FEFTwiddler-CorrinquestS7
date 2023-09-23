@@ -1011,7 +1011,7 @@
     <baseStats hp="18" str="7" mag="0" skl="9" spd="7" lck="2" def="6" res="6" />
     <maxStats hp="60" str="30" mag="25" skl="33" spd="30" lck="30" def="31" res="31" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="true" tome="false" staff="false" stone="false" />
-    <growthRates hp="10" str="10" mag="0" skl="15" spd="10" lck="5" def="5" res="15" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="10" lck="5" def="10" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="78" name="Mechanist_F">
@@ -1024,7 +1024,7 @@
     <baseStats hp="18" str="7" mag="0" skl="9" spd="7" lck="2" def="6" res="6" />
     <maxStats hp="60" str="30" mag="25" skl="33" spd="30" lck="30" def="31" res="31" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="true" tome="false" staff="false" stone="false" />
-    <growthRates hp="10" str="10" mag="0" skl="15" spd="10" lck="5" def="5" res="15" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="10" lck="5" def="10" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="79" name="Apothecary_M">
@@ -1689,6 +1689,266 @@
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="0" str="10" mag="0" skl="15" spd="20" lck="20" def="0" res="20" />
     <categories isPromoted="false" isSpecial="true" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="143" name="NohrPrince2_M">
+    <text lang="English" displayName="Nohr Prince 2 (M)" />
+    <text lang="Japanese" displayName="ダークプリンス男" />
+    <text lang="Spanish" displayName="Príncipe nohrio (H)" />
+    <text lang="French" displayName="Sire de Nohr (H)" />
+    <text lang="German" displayName="Prinz (Nohr) (M)" />
+    <text lang="Italian" displayName="Príncipe nohrio (M)" />
+    <baseStats hp="17" str="7" mag="3" skl="4" spd="5" lck="2" def="5" res="2" />
+    <maxStats hp="40" str="23" mag="17" skl="19" spd="21" lck="22" def="21" res="19" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
+    <growthRates hp="15" str="15" mag="10" skl="10" spd="10" lck="10" def="10" res="5" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="144" name="NohrPrince2_F">
+    <text lang="English" displayName="Nohr Princess 2 (F)" />
+    <text lang="Japanese" displayName="ダークプリンセス女" />
+    <text lang="Spanish" displayName="Princesa nohria (M)" />
+    <text lang="French" displayName="Dame de Nohr (F)" />
+    <text lang="German" displayName="Prinzessin (N.) (W)" />
+    <text lang="Italian" displayName="Princesa nohria (F)" />
+    <baseStats hp="17" str="7" mag="3" skl="4" spd="5" lck="2" def="5" res="2" />
+    <maxStats hp="40" str="23" mag="17" skl="19" spd="21" lck="22" def="21" res="19" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
+    <growthRates hp="15" str="15" mag="10" skl="10" spd="10" lck="10" def="10" res="5" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="145" name="Knight2_M">
+    <text lang="English" displayName="Knight 2 (M)" />
+    <text lang="Japanese" displayName="アーマーナイト男" />
+    <text lang="Spanish" displayName="Caballero (H)" />
+    <text lang="French" displayName="Chevalier (H)" />
+    <text lang="German" displayName="Ritter (M)" />
+    <text lang="Italian" displayName="Caballero (M)" />
+    <baseStats hp="19" str="8" mag="0" skl="5" spd="3" lck="3" def="8" res="1" />
+    <maxStats hp="45" str="24" mag="15" skl="22" spd="17" lck="22" def="26" res="18" />
+    <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="20" res="0" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="146" name="Knight2_F">
+    <text lang="English" displayName="Knight 2 (F)" />
+    <text lang="Japanese" displayName="アーマーナイト女" />
+    <text lang="Spanish" displayName="Caballero (M)" />
+    <text lang="French" displayName="Chevalier (F)" />
+    <text lang="German" displayName="Ritter (W)" />
+    <text lang="Italian" displayName="Caballero (F)" />
+    <baseStats hp="19" str="8" mag="0" skl="5" spd="3" lck="3" def="8" res="1" />
+    <maxStats hp="45" str="24" mag="15" skl="22" spd="17" lck="22" def="26" res="18" />
+    <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="20" res="0" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="147" name="Mercenary2_M">
+    <text lang="English" displayName="Mercenary 2 (M)" />
+    <text lang="Japanese" displayName="マーシナリー男" />
+    <text lang="Spanish" displayName="Mercenario (H)" />
+    <text lang="French" displayName="Mercenaire (H)" />
+    <text lang="German" displayName="Söldner (M)" />
+    <text lang="Italian" displayName="Mercenario (M)" />
+    <baseStats hp="17" str="5" mag="0" skl="7" spd="6" lck="2" def="5" res="2" />
+    <maxStats hp="40" str="22" mag="15" skl="24" spd="22" lck="20" def="21" res="19" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="10" str="15" mag="0" skl="20" spd="15" lck="5" def="10" res="5" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="148" name="Mercenary2_F">
+    <text lang="English" displayName="Mercenary 2 (F)" />
+    <text lang="Japanese" displayName="マーシナリー女" />
+    <text lang="Spanish" displayName="Mercenario (M)" />
+    <text lang="French" displayName="Mercenaire (F)" />
+    <text lang="German" displayName="Söldner (W)" />
+    <text lang="Italian" displayName="Mercenario (F)" />
+    <baseStats hp="17" str="5" mag="0" skl="7" spd="6" lck="2" def="5" res="2" />
+    <maxStats hp="40" str="22" mag="15" skl="24" spd="22" lck="20" def="21" res="19" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="10" str="15" mag="0" skl="20" spd="15" lck="5" def="10" res="5" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="149" name="Samurai2_M">
+    <text lang="English" displayName="Samurai 2 (M)" />
+    <text lang="Japanese" displayName="侍男" />
+    <text lang="Spanish" displayName="Samurái (H)" />
+    <text lang="French" displayName="Samouraï (H)" />
+    <text lang="German" displayName="Samurai (M)" />
+    <text lang="Italian" displayName="Samurái (M)" />
+    <baseStats hp="17" str="5" mag="0" skl="6" spd="8" lck="3" def="3" res="3" />
+    <maxStats hp="40" str="20" mag="16" skl="23" spd="25" lck="24" def="18" res="20" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="15" def="0" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="150" name="Samurai2_F">
+    <text lang="English" displayName="Samurai 2 (F)" />
+    <text lang="Japanese" displayName="侍女" />
+    <text lang="Spanish" displayName="Samurái (M)" />
+    <text lang="French" displayName="Samouraï (F)" />
+    <text lang="German" displayName="Samurai (W)" />
+    <text lang="Italian" displayName="Samurái (F)" />
+    <baseStats hp="17" str="5" mag="0" skl="6" spd="8" lck="3" def="3" res="3" />
+    <maxStats hp="40" str="20" mag="16" skl="23" spd="25" lck="24" def="18" res="20" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="15" def="0" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="151" name="OniSavage2_M">
+    <text lang="English" displayName="Oni Savage 2 (M)" />
+    <text lang="Japanese" displayName="鬼人男" />
+    <text lang="Spanish" displayName="Oni salvaje (H)" />
+    <text lang="French" displayName="Sauvage Oni (H)" />
+    <text lang="German" displayName="Oni-Barbar (M)" />
+    <text lang="Italian" displayName="Oni salvaje (M)" />
+    <baseStats hp="18" str="6" mag="1" skl="2" spd="5" lck="0" def="7" res="1" />
+    <maxStats hp="45" str="24" mag="19" skl="16" spd="20" lck="17" def="23" res="18" />
+    <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="10" skl="0" spd="10" lck="0" def="20" res="0" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="152" name="OniSavage2_F">
+    <text lang="English" displayName="Oni Savage 2 (F)" />
+    <text lang="Japanese" displayName="鬼人女" />
+    <text lang="Spanish" displayName="Oni salvaje (M)" />
+    <text lang="French" displayName="Sauvage Oni (F)" />
+    <text lang="German" displayName="Oni-Barbar (W)" />
+    <text lang="Italian" displayName="Oni salvaje (F)" />
+    <baseStats hp="18" str="6" mag="1" skl="2" spd="5" lck="0" def="7" res="1" />
+    <maxStats hp="45" str="24" mag="19" skl="16" spd="20" lck="17" def="23" res="18" />
+    <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="10" skl="0" spd="10" lck="0" def="20" res="0" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="153" name="Diviner2_M">
+    <text lang="English" displayName="Diviner 2 (M)" />
+    <text lang="Japanese" displayName="呪い師男" />
+    <text lang="Spanish" displayName="Augur (H)" />
+    <text lang="French" displayName="Devin (H)" />
+    <text lang="German" displayName="Kleriker (M)" />
+    <text lang="Italian" displayName="Augur (M)" />
+    <baseStats hp="15" str="0" mag="4" skl="6" spd="6" lck="2" def="1" res="3" />
+    <maxStats hp="35" str="17" mag="22" skl="20" spd="23" lck="19" def="16" res="20" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
+    <growthRates hp="0" str="5" mag="15" skl="10" spd="15" lck="5" def="0" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="154" name="Diviner2_F">
+    <text lang="English" displayName="Diviner 2 (F)" />
+    <text lang="Japanese" displayName="呪い師女" />
+    <text lang="Spanish" displayName="Augur (M)" />
+    <text lang="French" displayName="Devin (F)" />
+    <text lang="German" displayName="Kleriker (W)" />
+    <text lang="Italian" displayName="Augur (F)" />
+    <baseStats hp="15" str="0" mag="4" skl="6" spd="6" lck="2" def="1" res="3" />
+    <maxStats hp="35" str="17" mag="22" skl="20" spd="23" lck="19" def="16" res="20" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
+    <growthRates hp="0" str="5" mag="15" skl="10" spd="15" lck="5" def="0" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="155" name="SkyKnight2_M">
+    <text lang="English" displayName="Sky Knight 2 (M)" />
+    <text lang="Japanese" displayName="天馬武者男" />
+    <text lang="Spanish" displayName="Auriga celeste (H)" />
+    <text lang="French" displayName="Chev. céleste (H)" />
+    <text lang="German" displayName="Luftritter (M)" />
+    <text lang="Italian" displayName="Auriga celeste (M)" />
+    <baseStats hp="16" str="3" mag="1" skl="5" spd="7" lck="4" def="2" res="6" />
+    <maxStats hp="35" str="19" mag="16" skl="21" spd="23" lck="25" def="18" res="25" />
+    <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="0" str="10" mag="5" skl="10" spd="15" lck="20" def="0" res="20" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="156" name="SkyKnight2_F">
+    <text lang="English" displayName="Sky Knight 2 (F)" />
+    <text lang="Japanese" displayName="天馬武者女" />
+    <text lang="Spanish" displayName="Auriga celeste (M)" />
+    <text lang="French" displayName="Chev. céleste (F)" />
+    <text lang="German" displayName="Luftritter (W)" />
+    <text lang="Italian" displayName="Auriga celeste (F)" />
+    <baseStats hp="16" str="3" mag="1" skl="5" spd="7" lck="4" def="2" res="6" />
+    <maxStats hp="35" str="19" mag="16" skl="21" spd="23" lck="25" def="18" res="25" />
+    <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="0" str="10" mag="5" skl="10" spd="15" lck="20" def="0" res="20" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="157" name="Archer2_M">
+    <text lang="English" displayName="Archer 2 (M)" />
+    <text lang="Japanese" displayName="弓使い男" />
+    <text lang="Spanish" displayName="Arquero (H)" />
+    <text lang="French" displayName="Archer (H)" />
+    <text lang="German" displayName="Schütze (M)" />
+    <text lang="Italian" displayName="Arquero (M)" />
+    <baseStats hp="17" str="5" mag="0" skl="7" spd="5" lck="2" def="4" res="1" />
+    <maxStats hp="40" str="21" mag="15" skl="23" spd="21" lck="20" def="20" res="17" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="10" str="15" mag="0" skl="15" spd="15" lck="5" def="10" res="0" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="158" name="Archer2_F">
+    <text lang="English" displayName="Archer 2 (F)" />
+    <text lang="Japanese" displayName="弓使い女" />
+    <text lang="Spanish" displayName="Arquero (M)" />
+    <text lang="French" displayName="Archer (F)" />
+    <text lang="German" displayName="Schütze (W)" />
+    <text lang="Italian" displayName="Arquero (F)" />
+    <baseStats hp="17" str="5" mag="0" skl="7" spd="5" lck="2" def="4" res="1" />
+    <maxStats hp="40" str="21" mag="15" skl="23" spd="21" lck="20" def="20" res="17" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="10" str="15" mag="0" skl="15" spd="15" lck="5" def="10" res="0" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="159" name="Ninja2_M">
+    <text lang="English" displayName="Ninja 2 (M)" />
+    <text lang="Japanese" displayName="忍男" />
+    <text lang="Spanish" displayName="Ninja (H)" />
+    <text lang="French" displayName="Ninja (H)" />
+    <text lang="German" displayName="Ninja (M)" />
+    <text lang="Italian" displayName="Ninja (M)" />
+    <baseStats hp="16" str="3" mag="0" skl="8" spd="8" lck="1" def="3" res="3" />
+    <maxStats hp="35" str="17" mag="15" skl="25" spd="25" lck="18" def="19" res="20" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="5" str="5" mag="0" skl="20" spd="20" lck="0" def="5" res="15" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="160" name="Ninja2_F">
+    <text lang="English" displayName="Ninja 2 (F)" />
+    <text lang="Japanese" displayName="忍女" />
+    <text lang="Spanish" displayName="Ninja (M)" />
+    <text lang="French" displayName="Ninja (F)" />
+    <text lang="German" displayName="Ninja (W)" />
+    <text lang="Italian" displayName="Ninja (F)" />
+    <baseStats hp="16" str="3" mag="0" skl="8" spd="8" lck="1" def="3" res="3" />
+    <maxStats hp="35" str="17" mag="15" skl="25" spd="25" lck="18" def="19" res="20" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="5" str="5" mag="0" skl="20" spd="20" lck="0" def="5" res="15" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="161" name="DarkMage2_M">
+    <text lang="English" displayName="Dark Mage 2 (M)" />
+    <text lang="Japanese" displayName="ダークマージ男" />
+    <text lang="Spanish" displayName="Mago oscuro (H)" />
+    <text lang="French" displayName="Mage noir (H)" />
+    <text lang="German" displayName="Dunkelmagier (M)" />
+    <text lang="Italian" displayName="Mago oscuro (M)" />
+    <baseStats hp="16" str="0" mag="6" skl="3" spd="3" lck="1" def="3" res="5" />
+    <maxStats hp="35" str="19" mag="24" skl="16" spd="19" lck="18" def="19" res="22" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
+    <growthRates hp="0" str="10" mag="20" skl="0" spd="10" lck="0" def="5" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="162" name="DarkMage2_F">
+    <text lang="English" displayName="Dark Mage 2 (F)" />
+    <text lang="Japanese" displayName="ダークマージ女" />
+    <text lang="Spanish" displayName="Mago oscuro (M)" />
+    <text lang="French" displayName="Mage noir (F)" />
+    <text lang="German" displayName="Dunkelmagier (W)" />
+    <text lang="Italian" displayName="Mago oscuro (F)" />
+    <baseStats hp="16" str="0" mag="6" skl="3" spd="3" lck="1" def="3" res="5" />
+    <maxStats hp="35" str="19" mag="24" skl="16" spd="19" lck="18" def="19" res="22" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
+    <growthRates hp="0" str="10" mag="20" skl="0" spd="10" lck="0" def="5" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <!--
   Template:
