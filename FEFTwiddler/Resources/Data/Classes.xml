@@ -20,10 +20,10 @@
     <text lang="French" displayName="Noble (Nohr) (H)" />
     <text lang="German" displayName="Adeliger (Nohr) (M)" />
     <text lang="Italian" displayName="Linaje Nohr (M)" />
-    <baseStats hp="18" str="8" mag="6" skl="4" spd="7" lck="2" def="6" res="6" />
+    <baseStats hp="18" str="8" mag="7" skl="5" spd="8" lck="2" def="6" res="7" />
     <maxStats hp="60" str="32" mag="31" skl="28" spd="32" lck="27" def="29" res="32" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="true" />
-    <growthRates hp="15" str="10" mag="15" skl="5" spd="15" lck="5" def="5" res="15" />
+    <growthRates hp="15" str="15" mag="15" skl="5" spd="15" lck="5" def="5" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="2" name="NohrNoble_F">
@@ -33,10 +33,10 @@
     <text lang="French" displayName="Noble (Nohr) (F)" />
     <text lang="German" displayName="Adeliger (Nohr) (W)" />
     <text lang="Italian" displayName="Linaje Nohr (F)" />
-    <baseStats hp="18" str="8" mag="6" skl="4" spd="7" lck="2" def="6" res="6" />
+    <baseStats hp="18" str="8" mag="7" skl="5" spd="8" lck="2" def="6" res="7" />
     <maxStats hp="60" str="32" mag="31" skl="28" spd="32" lck="27" def="29" res="32" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="true" />
-    <growthRates hp="15" str="10" mag="15" skl="5" spd="15" lck="5" def="5" res="15" />
+    <growthRates hp="15" str="15" mag="15" skl="5" spd="15" lck="5" def="5" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="3" name="NohrPrince_M">
@@ -72,10 +72,10 @@
     <text lang="French" displayName="Noble (Hoshido) (H)" />
     <text lang="German" displayName="Adeliger (Hos.) (M)" />
     <text lang="Italian" displayName="Linaje Hoshido (M)" />
-    <baseStats hp="19" str="10" mag="4" skl="5" spd="6" lck="4" def="7" res="3" />
-    <maxStats hp="60" str="34" mag="28" skl="29" spd="30" lck="33" def="31" res="28" />
+    <baseStats hp="19" str="10" mag="4" skl="6" spd="7" lck="4" def="9" res="3" />
+    <maxStats hp="60" str="34" mag="28" skl="29" spd="30" lck="33" def="33" res="28" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="true" />
-    <growthRates hp="15" str="15" mag="10" skl="10" spd="10" lck="10" def="15" res="0" />
+    <growthRates hp="15" str="20" mag="10" skl="10" spd="10" lck="10" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="6" name="HoshidoNoble_F">
@@ -85,10 +85,10 @@
     <text lang="French" displayName="Noble (Hoshido) (F)" />
     <text lang="German" displayName="Adeliger (Hos.) (W)" />
     <text lang="Italian" displayName="Linaje Hoshido (F)" />
-    <baseStats hp="19" str="10" mag="4" skl="5" spd="6" lck="4" def="7" res="3" />
-    <maxStats hp="60" str="34" mag="28" skl="29" spd="30" lck="33" def="31" res="28" />
+    <baseStats hp="19" str="10" mag="4" skl="6" spd="7" lck="4" def="9" res="3" />
+    <maxStats hp="60" str="34" mag="28" skl="29" spd="30" lck="33" def="33" res="28" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="true" />
-    <growthRates hp="15" str="15" mag="10" skl="10" spd="10" lck="10" def="15" res="0" />
+    <growthRates hp="15" str="20" mag="10" skl="10" spd="10" lck="10" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="7" name="Paladin_M">
@@ -98,10 +98,10 @@
     <text lang="French" displayName="Paladin (H)" />
     <text lang="German" displayName="Rittmeister (M)" />
     <text lang="Italian" displayName="Paladín (M)" />
-    <baseStats hp="19" str="8" mag="1" skl="7" spd="7" lck="4" def="7" res="6" />
-    <maxStats hp="60" str="31" mag="26" skl="30" spd="30" lck="32" def="32" res="32" />
+    <baseStats hp="19" str="8" mag="1" skl="8" spd="7" lck="4" def="8" res="6" />
+    <maxStats hp="60" str="31" mag="26" skl="32" spd="30" lck="32" def="32" res="32" />
     <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="10" str="15" mag="0" skl="10" spd="10" lck="15" def="10" res="10" />
+    <growthRates hp="15" str="15" mag="0" skl="15" spd="10" lck="15" def="10" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="8" name="Paladin_F">
@@ -111,10 +111,10 @@
     <text lang="French" displayName="Paladin (F)" />
     <text lang="German" displayName="Rittmeister (W)" />
     <text lang="Italian" displayName="Paladín (F)" />
-    <baseStats hp="19" str="8" mag="1" skl="7" spd="7" lck="4" def="7" res="6" />
-    <maxStats hp="60" str="31" mag="26" skl="30" spd="30" lck="32" def="32" res="32" />
+    <baseStats hp="19" str="8" mag="1" skl="8" spd="7" lck="4" def="8" res="6" />
+    <maxStats hp="60" str="31" mag="26" skl="32" spd="30" lck="32" def="32" res="32" />
     <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="10" str="15" mag="0" skl="10" spd="10" lck="15" def="10" res="10" />
+    <growthRates hp="15" str="15" mag="0" skl="15" spd="10" lck="15" def="10" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="9" name="Cavalier_M">
@@ -178,7 +178,7 @@
     <text lang="Italian" displayName="Caballero (M)" />
     <baseStats hp="19" str="8" mag="0" skl="5" spd="3" lck="3" def="8" res="1" />
     <maxStats hp="45" str="24" mag="15" skl="22" spd="17" lck="22" def="26" res="18" />
-    <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="20" res="0" />
     <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
@@ -191,7 +191,7 @@
     <text lang="Italian" displayName="Caballero (F)" />
     <baseStats hp="19" str="8" mag="0" skl="5" spd="3" lck="3" def="8" res="1" />
     <maxStats hp="45" str="24" mag="15" skl="22" spd="17" lck="22" def="26" res="18" />
-    <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="20" res="0" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
@@ -202,9 +202,9 @@
     <text lang="French" displayName="Général (H)" />
     <text lang="German" displayName="General (M)" />
     <text lang="Italian" displayName="General (M)" />
-    <baseStats hp="22" str="11" mag="0" skl="7" spd="3" lck="4" def="12" res="3" />
-    <maxStats hp="70" str="38" mag="25" skl="32" spd="25" lck="32" def="40" res="30" />
-    <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <baseStats hp="23" str="12" mag="0" skl="9" spd="3" lck="4" def="12" res="4" />
+    <maxStats hp="70" str="38" mag="25" skl="33" spd="25" lck="32" def="40" res="30" />
+    <weaponsUsed sword="true" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="25" str="20" mag="0" skl="15" spd="0" lck="10" def="20" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
@@ -215,9 +215,9 @@
     <text lang="French" displayName="Général (F)" />
     <text lang="German" displayName="General (W)" />
     <text lang="Italian" displayName="General (F)" />
-    <baseStats hp="22" str="11" mag="0" skl="7" spd="3" lck="4" def="12" res="3" />
-    <maxStats hp="70" str="38" mag="25" skl="32" spd="25" lck="32" def="40" res="30" />
-    <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <baseStats hp="23" str="12" mag="0" skl="9" spd="3" lck="4" def="12" res="4" />
+    <maxStats hp="70" str="38" mag="25" skl="33" spd="25" lck="32" def="40" res="30" />
+    <weaponsUsed sword="true" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="25" str="20" mag="0" skl="15" spd="0" lck="10" def="20" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
@@ -280,8 +280,8 @@
     <text lang="French" displayName="Héros (H)" />
     <text lang="German" displayName="Held (M)" />
     <text lang="Italian" displayName="Campeón (M)" />
-    <baseStats hp="20" str="8" mag="0" skl="10" spd="8" lck="3" def="7" res="2" />
-    <maxStats hp="60" str="32" mag="25" skl="35" spd="32" lck="31" def="30" res="27" />
+    <baseStats hp="20" str="8" mag="0" skl="10" spd="9" lck="3" def="7" res="3" />
+    <maxStats hp="60" str="32" mag="25" skl="35" spd="33" lck="31" def="30" res="27" />
     <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="15" mag="0" skl="20" spd="15" lck="5" def="10" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
@@ -293,8 +293,8 @@
     <text lang="French" displayName="Héros (F)" />
     <text lang="German" displayName="Held (W)" />
     <text lang="Italian" displayName="Campeón (F)" />
-    <baseStats hp="20" str="8" mag="0" skl="10" spd="8" lck="3" def="7" res="2" />
-    <maxStats hp="60" str="32" mag="25" skl="35" spd="32" lck="31" def="30" res="27" />
+    <baseStats hp="20" str="8" mag="0" skl="10" spd="9" lck="3" def="7" res="3" />
+    <maxStats hp="60" str="32" mag="25" skl="35" spd="33" lck="31" def="30" res="27" />
     <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="15" mag="0" skl="20" spd="15" lck="5" def="10" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
@@ -384,10 +384,10 @@
     <text lang="French" displayName="Aventurier (H)" />
     <text lang="German" displayName="Abenteurer (M)" />
     <text lang="Italian" displayName="Aventurero (M)" />
-    <baseStats hp="17" str="4" mag="6" skl="6" spd="10" lck="2" def="3" res="8" />
-    <maxStats hp="50" str="27" mag="31" skl="27" spd="34" lck="27" def="25" res="34" />
+    <baseStats hp="17" str="5" mag="6" skl="6" spd="10" lck="2" def="3" res="8" />
+    <maxStats hp="50" str="27" mag="31" skl="29" spd="34" lck="27" def="25" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="true" stone="false" />
-    <growthRates hp="0" str="5" mag="15" skl="5" spd="20" lck="0" def="0" res="20" />
+    <growthRates hp="0" str="10" mag="15" skl="10" spd="20" lck="0" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="30" name="Adventurer_F">
@@ -397,10 +397,10 @@
     <text lang="French" displayName="Aventurier (F)" />
     <text lang="German" displayName="Abenteurer (W)" />
     <text lang="Italian" displayName="Aventurero (F)" />
-    <baseStats hp="17" str="4" mag="6" skl="6" spd="10" lck="2" def="3" res="8" />
-    <maxStats hp="50" str="27" mag="31" skl="27" spd="34" lck="27" def="25" res="34" />
+    <baseStats hp="17" str="5" mag="6" skl="6" spd="10" lck="2" def="3" res="8" />
+    <maxStats hp="50" str="27" mag="31" skl="29" spd="34" lck="27" def="25" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="true" stone="false" />
-    <growthRates hp="0" str="5" mag="15" skl="5" spd="20" lck="0" def="0" res="20" />
+    <growthRates hp="0" str="10" mag="15" skl="10" spd="20" lck="0" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="31" name="Swordmaster_M">
@@ -410,8 +410,8 @@
     <text lang="French" displayName="Bretteur (H)" />
     <text lang="German" displayName="Schwertmeister (M)" />
     <text lang="Italian" displayName="Espadachín (M)" />
-    <baseStats hp="18" str="6" mag="2" skl="7" spd="11" lck="4" def="5" res="5" />
-    <maxStats hp="55" str="30" mag="28" skl="32" spd="35" lck="33" def="27" res="31" />
+    <baseStats hp="18" str="7" mag="2" skl="9" spd="11" lck="4" def="5" res="5" />
+    <maxStats hp="55" str="30" mag="28" skl="33" spd="35" lck="33" def="27" res="31" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="10" str="10" mag="5" skl="15" spd="20" lck="15" def="0" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
@@ -423,8 +423,8 @@
     <text lang="French" displayName="Bretteur (F)" />
     <text lang="German" displayName="Schwertmeister (W)" />
     <text lang="Italian" displayName="Espadachín (F)" />
-    <baseStats hp="18" str="6" mag="2" skl="7" spd="11" lck="4" def="5" res="5" />
-    <maxStats hp="55" str="30" mag="28" skl="32" spd="35" lck="33" def="27" res="31" />
+    <baseStats hp="18" str="7" mag="2" skl="9" spd="11" lck="4" def="5" res="5" />
+    <maxStats hp="55" str="30" mag="28" skl="33" spd="35" lck="33" def="27" res="31" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="10" str="10" mag="5" skl="15" spd="20" lck="15" def="0" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
@@ -436,7 +436,7 @@
     <text lang="French" displayName="Samouraï (H)" />
     <text lang="German" displayName="Samurai (M)" />
     <text lang="Italian" displayName="Samurái (M)" />
-    <baseStats hp="17" str="4" mag="0" skl="5" spd="8" lck="3" def="3" res="3" />
+    <baseStats hp="17" str="5" mag="0" skl="6" spd="8" lck="3" def="3" res="3" />
     <maxStats hp="40" str="20" mag="16" skl="23" spd="25" lck="24" def="18" res="20" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="15" def="0" res="10" />
@@ -449,7 +449,7 @@
     <text lang="French" displayName="Samouraï (F)" />
     <text lang="German" displayName="Samurai (W)" />
     <text lang="Italian" displayName="Samurái (F)" />
-    <baseStats hp="17" str="4" mag="0" skl="5" spd="8" lck="3" def="3" res="3" />
+    <baseStats hp="17" str="5" mag="0" skl="6" spd="8" lck="3" def="3" res="3" />
     <maxStats hp="40" str="20" mag="16" skl="23" spd="25" lck="24" def="18" res="20" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="15" def="0" res="10" />
@@ -462,7 +462,7 @@
     <text lang="French" displayName="Maître d'armes (H)" />
     <text lang="German" displayName="Waffenmeister (M)" />
     <text lang="Italian" displayName="Campeador (M)" />
-    <baseStats hp="20" str="8" mag="0" skl="6" spd="9" lck="3" def="7" res="3" />
+    <baseStats hp="20" str="9" mag="0" skl="6" spd="9" lck="3" def="7" res="3" />
     <maxStats hp="65" str="33" mag="25" skl="30" spd="30" lck="31" def="31" res="28" />
     <weaponsUsed sword="true" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="15" mag="0" skl="10" spd="10" lck="10" def="10" res="0" />
@@ -475,7 +475,7 @@
     <text lang="French" displayName="Maître d'armes (F)" />
     <text lang="German" displayName="Waffenmeister (W)" />
     <text lang="Italian" displayName="Campeador (F)" />
-    <baseStats hp="20" str="8" mag="0" skl="6" spd="9" lck="3" def="7" res="3" />
+    <baseStats hp="20" str="9" mag="0" skl="6" spd="9" lck="3" def="7" res="3" />
     <maxStats hp="65" str="33" mag="25" skl="30" spd="30" lck="31" def="31" res="28" />
     <weaponsUsed sword="true" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="15" mag="0" skl="10" spd="10" lck="10" def="10" res="0" />
@@ -488,10 +488,10 @@
     <text lang="French" displayName="Chef Oni (H)" />
     <text lang="German" displayName="Oni-Häuptling (M)" />
     <text lang="Italian" displayName="Oni jefe (M)" />
-    <baseStats hp="19" str="9" mag="5" skl="2" spd="7" lck="0" def="10" res="5" />
+    <baseStats hp="19" str="9" mag="5" skl="4" spd="7" lck="0" def="10" res="5" />
     <maxStats hp="60" str="34" mag="28" skl="25" spd="30" lck="25" def="36" res="31" />
     <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="10" str="20" mag="15" skl="0" spd="10" lck="0" def="20" res="5" />
+    <growthRates hp="15" str="20" mag="15" skl="0" spd="10" lck="0" def="20" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="38" name="OniChieftain_F">
@@ -501,10 +501,10 @@
     <text lang="French" displayName="Chef Oni (F)" />
     <text lang="German" displayName="Oni-Häuptling (W)" />
     <text lang="Italian" displayName="Oni jefe (F)" />
-    <baseStats hp="19" str="9" mag="5" skl="2" spd="7" lck="0" def="10" res="5" />
+    <baseStats hp="19" str="9" mag="5" skl="4" spd="7" lck="0" def="10" res="5" />
     <maxStats hp="60" str="34" mag="28" skl="25" spd="30" lck="25" def="36" res="31" />
     <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="10" str="20" mag="15" skl="0" spd="10" lck="0" def="20" res="5" />
+    <growthRates hp="15" str="20" mag="15" skl="0" spd="10" lck="0" def="20" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="39" name="OniSavage_M">
@@ -540,10 +540,10 @@
     <text lang="French" displayName="Forgeron (H)" />
     <text lang="German" displayName="Schmied (M)" />
     <text lang="Italian" displayName="Herrero (M)" />
-    <baseStats hp="21" str="8" mag="0" skl="9" spd="8" lck="3" def="8" res="2" />
-    <maxStats hp="65" str="33" mag="25" skl="32" spd="31" lck="30" def="32" res="27" />
-    <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="20" str="15" mag="0" skl="15" spd="10" lck="5" def="15" res="0" />
+    <baseStats hp="21" str="9" mag="0" skl="9" spd="8" lck="3" def="8" res="2" />
+    <maxStats hp="65" str="34" mag="25" skl="32" spd="31" lck="30" def="32" res="27" />
+    <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="0" skl="15" spd="10" lck="5" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="42" name="Blacksmith_F">
@@ -553,10 +553,10 @@
     <text lang="French" displayName="Forgeron (F)" />
     <text lang="German" displayName="Schmied (W)" />
     <text lang="Italian" displayName="Herrero (F)" />
-    <baseStats hp="21" str="8" mag="0" skl="9" spd="8" lck="3" def="8" res="2" />
-    <maxStats hp="65" str="33" mag="25" skl="32" spd="31" lck="30" def="32" res="27" />
-    <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="20" str="15" mag="0" skl="15" spd="10" lck="5" def="15" res="0" />
+    <baseStats hp="21" str="9" mag="0" skl="9" spd="8" lck="3" def="8" res="2" />
+    <maxStats hp="65" str="34" mag="25" skl="32" spd="31" lck="30" def="32" res="27" />
+    <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="0" skl="15" spd="10" lck="5" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="43" name="SpearMaster_M">
@@ -566,10 +566,10 @@
     <text lang="French" displayName="Maître lancier (H)" />
     <text lang="German" displayName="Speermeister (M)" />
     <text lang="Italian" displayName="Gran piquero (M)" />
-    <baseStats hp="18" str="9" mag="0" skl="8" spd="8" lck="3" def="7" res="3" />
+    <baseStats hp="19" str="9" mag="0" skl="9" spd="8" lck="3" def="7" res="3" />
     <maxStats hp="60" str="34" mag="25" skl="33" spd="32" lck="29" def="30" res="29" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="15" str="15" mag="0" skl="15" spd="15" lck="5" def="10" res="5" />
+    <growthRates hp="15" str="20" mag="0" skl="15" spd="15" lck="5" def="10" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="44" name="SpearMaster_F">
@@ -579,10 +579,10 @@
     <text lang="French" displayName="Maître lancier (F)" />
     <text lang="German" displayName="Speermeister (W)" />
     <text lang="Italian" displayName="Gran piquero (F)" />
-    <baseStats hp="18" str="9" mag="0" skl="8" spd="8" lck="3" def="7" res="3" />
+    <baseStats hp="19" str="9" mag="0" skl="9" spd="8" lck="3" def="7" res="3" />
     <maxStats hp="60" str="34" mag="25" skl="33" spd="32" lck="29" def="30" res="29" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="15" str="15" mag="0" skl="15" spd="15" lck="5" def="10" res="5" />
+    <growthRates hp="15" str="20" mag="0" skl="15" spd="15" lck="5" def="10" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="45" name="SpearFighter_M">
@@ -644,7 +644,7 @@
     <text lang="French" displayName="Devin (H)" />
     <text lang="German" displayName="Kleriker (M)" />
     <text lang="Italian" displayName="Augur (M)" />
-    <baseStats hp="15" str="0" mag="4" skl="5" spd="6" lck="1" def="1" res="3" />
+    <baseStats hp="15" str="0" mag="4" skl="6" spd="6" lck="2" def="1" res="3" />
     <maxStats hp="35" str="17" mag="22" skl="20" spd="23" lck="19" def="16" res="20" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
     <growthRates hp="0" str="5" mag="15" skl="10" spd="15" lck="5" def="0" res="10" />
@@ -657,7 +657,7 @@
     <text lang="French" displayName="Devin (F)" />
     <text lang="German" displayName="Kleriker (W)" />
     <text lang="Italian" displayName="Augur (F)" />
-    <baseStats hp="15" str="0" mag="4" skl="5" spd="6" lck="1" def="1" res="3" />
+    <baseStats hp="15" str="0" mag="4" skl="6" spd="6" lck="2" def="1" res="3" />
     <maxStats hp="35" str="17" mag="22" skl="20" spd="23" lck="19" def="16" res="20" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
     <growthRates hp="0" str="5" mag="15" skl="10" spd="15" lck="5" def="0" res="10" />
@@ -670,10 +670,10 @@
     <text lang="French" displayName="Onmyoji (H)" />
     <text lang="German" displayName="Onmyoji (M)" />
     <text lang="Italian" displayName="Espiritista (M)" />
-    <baseStats hp="16" str="0" mag="7" skl="6" spd="7" lck="2" def="3" res="6" />
-    <maxStats hp="45" str="25" mag="33" skl="31" spd="32" lck="27" def="25" res="31" />
+    <baseStats hp="16" str="0" mag="8" skl="9" spd="8" lck="3" def="3" res="7" />
+    <maxStats hp="45" str="25" mag="33" skl="33" spd="32" lck="30" def="25" res="31" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="true" stone="false" />
-    <growthRates hp="0" str="0" mag="20" skl="10" spd="15" lck="0" def="0" res="15" />
+    <growthRates hp="0" str="0" mag="20" skl="15" spd="15" lck="5" def="0" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="52" name="Onmyoji_F">
@@ -683,10 +683,10 @@
     <text lang="French" displayName="Onmyoji (F)" />
     <text lang="German" displayName="Onmyoji (W)" />
     <text lang="Italian" displayName="Espiritista (F)" />
-    <baseStats hp="16" str="0" mag="7" skl="6" spd="7" lck="2" def="3" res="6" />
-    <maxStats hp="45" str="25" mag="33" skl="31" spd="32" lck="27" def="25" res="31" />
+    <baseStats hp="16" str="0" mag="8" skl="9" spd="8" lck="3" def="3" res="7" />
+    <maxStats hp="45" str="25" mag="33" skl="33" spd="32" lck="30" def="25" res="31" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="true" stone="false" />
-    <growthRates hp="0" str="0" mag="20" skl="10" spd="15" lck="0" def="0" res="15" />
+    <growthRates hp="0" str="0" mag="20" skl="15" spd="15" lck="5" def="0" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="53" name="Monk">
@@ -699,7 +699,7 @@
     <baseStats hp="16" str="0" mag="3" skl="5" spd="5" lck="4" def="2" res="5" />
     <maxStats hp="35" str="18" mag="21" skl="20" spd="22" lck="23" def="17" res="24" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
-    <growthRates hp="0" str="5" mag="10" skl="10" spd="15" lck="15" def="0" res="20" />
+    <growthRates hp="0" str="5" mag="10" skl="10" spd="15" lck="20" def="0" res="20" />
     <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="54" name="ShrineMaiden">
@@ -712,7 +712,7 @@
     <baseStats hp="16" str="0" mag="3" skl="5" spd="5" lck="4" def="2" res="5" />
     <maxStats hp="35" str="18" mag="21" skl="20" spd="22" lck="23" def="17" res="24" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
-    <growthRates hp="0" str="5" mag="10" skl="10" spd="15" lck="15" def="0" res="20" />
+    <growthRates hp="0" str="5" mag="10" skl="10" spd="15" lck="20" def="0" res="20" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="55" name="GreatMaster">
@@ -725,7 +725,7 @@
     <baseStats hp="19" str="8" mag="6" skl="6" spd="8" lck="5" def="6" res="7" />
     <maxStats hp="55" str="32" mag="30" skl="31" spd="33" lck="32" def="28" res="32" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
-    <growthRates hp="10" str="15" mag="5" skl="5" spd="15" lck="15" def="10" res="10" />
+    <growthRates hp="10" str="15" mag="5" skl="5" spd="15" lck="20" def="10" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="56" name="Priestess">
@@ -738,7 +738,7 @@
     <baseStats hp="19" str="6" mag="7" skl="6" spd="9" lck="5" def="5" res="8" />
     <maxStats hp="50" str="29" mag="32" skl="30" spd="33" lck="34" def="26" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="true" stone="false" />
-    <growthRates hp="10" str="10" mag="10" skl="5" spd="15" lck="15" def="0" res="20" />
+    <growthRates hp="10" str="10" mag="10" skl="5" spd="15" lck="20" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="57" name="FalconKnight_M">
@@ -748,7 +748,7 @@
     <text lang="French" displayName="Chev. faucon (H)" />
     <text lang="German" displayName="Falkenritter (M)" />
     <text lang="Italian" displayName="Auriga (M)" />
-    <baseStats hp="18" str="5" mag="4" skl="6" spd="10" lck="5" def="5" res="9" />
+    <baseStats hp="18" str="5" mag="5" skl="6" spd="10" lck="5" def="5" res="9" />
     <maxStats hp="55" str="28" mag="27" skl="30" spd="34" lck="35" def="27" res="35" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
     <growthRates hp="0" str="10" mag="10" skl="10" spd="15" lck="20" def="0" res="20" />
@@ -761,7 +761,7 @@
     <text lang="French" displayName="Chev. faucon (F)" />
     <text lang="German" displayName="Falkenritter (W)" />
     <text lang="Italian" displayName="Auriga (F)" />
-    <baseStats hp="18" str="5" mag="4" skl="6" spd="10" lck="5" def="5" res="9" />
+    <baseStats hp="18" str="5" mag="5" skl="6" spd="10" lck="5" def="5" res="9" />
     <maxStats hp="55" str="28" mag="27" skl="30" spd="34" lck="35" def="27" res="35" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
     <growthRates hp="0" str="10" mag="10" skl="10" spd="15" lck="20" def="0" res="20" />
@@ -774,10 +774,10 @@
     <text lang="French" displayName="Chev. céleste (H)" />
     <text lang="German" displayName="Luftritter (M)" />
     <text lang="Italian" displayName="Auriga celeste (M)" />
-    <baseStats hp="16" str="3" mag="0" skl="5" spd="7" lck="4" def="2" res="6" />
+    <baseStats hp="16" str="3" mag="1" skl="5" spd="7" lck="4" def="2" res="6" />
     <maxStats hp="35" str="19" mag="16" skl="21" spd="23" lck="25" def="18" res="25" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="0" str="10" mag="0" skl="10" spd="15" lck="20" def="0" res="20" />
+    <growthRates hp="0" str="10" mag="5" skl="10" spd="15" lck="20" def="0" res="20" />
     <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="60" name="SkyKnight_F">
@@ -787,10 +787,10 @@
     <text lang="French" displayName="Chev. céleste (F)" />
     <text lang="German" displayName="Luftritter (W)" />
     <text lang="Italian" displayName="Auriga celeste (F)" />
-    <baseStats hp="16" str="3" mag="0" skl="5" spd="7" lck="4" def="2" res="6" />
+    <baseStats hp="16" str="3" mag="1" skl="5" spd="7" lck="4" def="2" res="6" />
     <maxStats hp="35" str="19" mag="16" skl="21" spd="23" lck="25" def="18" res="25" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="0" str="10" mag="0" skl="10" spd="15" lck="20" def="0" res="20" />
+    <growthRates hp="0" str="10" mag="5" skl="10" spd="15" lck="20" def="0" res="20" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="61" name="KinshiKnight_M">
@@ -881,7 +881,7 @@
     <baseStats hp="19" str="8" mag="0" skl="9" spd="6" lck="3" def="10" res="1" />
     <maxStats hp="60" str="33" mag="25" skl="33" spd="29" lck="28" def="35" res="26" />
     <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="10" str="15" mag="0" skl="15" spd="10" lck="5" def="20" res="0" />
+    <growthRates hp="15" str="15" mag="0" skl="15" spd="10" lck="5" def="20" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="68" name="WyvernLord_F">
@@ -894,7 +894,7 @@
     <baseStats hp="19" str="8" mag="0" skl="9" spd="6" lck="3" def="10" res="1" />
     <maxStats hp="60" str="33" mag="25" skl="33" spd="29" lck="28" def="35" res="26" />
     <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="10" str="15" mag="0" skl="15" spd="10" lck="5" def="20" res="0" />
+    <growthRates hp="15" str="15" mag="0" skl="15" spd="10" lck="5" def="20" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="69" name="WyvernRider_M">
@@ -933,7 +933,7 @@
     <baseStats hp="18" str="7" mag="6" skl="6" spd="5" lck="0" def="8" res="6" />
     <maxStats hp="55" str="31" mag="30" skl="28" spd="27" lck="25" def="31" res="31" />
     <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="15" mag="15" skl="10" spd="5" lck="0" def="10" res="15" />
+    <growthRates hp="10" str="15" mag="15" skl="10" spd="5" lck="0" def="10" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="72" name="MaligKnight_F">
@@ -946,7 +946,7 @@
     <baseStats hp="18" str="7" mag="6" skl="6" spd="5" lck="0" def="8" res="6" />
     <maxStats hp="55" str="31" mag="30" skl="28" spd="27" lck="25" def="31" res="31" />
     <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="15" mag="15" skl="10" spd="5" lck="0" def="10" res="15" />
+    <growthRates hp="10" str="15" mag="15" skl="10" spd="5" lck="0" def="10" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="73" name="NinjaMaster_M">
@@ -1060,10 +1060,10 @@
     <text lang="French" displayName="Négociant (H)" />
     <text lang="German" displayName="Händler (M)" />
     <text lang="Italian" displayName="Mercader (M)" />
-    <baseStats hp="20" str="8" mag="0" skl="6" spd="5" lck="4" def="8" res="5" />
+    <baseStats hp="20" str="9" mag="0" skl="6" spd="6" lck="5" def="8" res="5" />
     <maxStats hp="65" str="33" mag="25" skl="29" spd="28" lck="32" def="33" res="30" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
-    <growthRates hp="20" str="20" mag="0" skl="10" spd="5" lck="15" def="10" res="5" />
+    <growthRates hp="20" str="20" mag="0" skl="10" spd="5" lck="20" def="15" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="82" name="Merchant_F">
@@ -1073,10 +1073,10 @@
     <text lang="French" displayName="Négociant (F)" />
     <text lang="German" displayName="Händler (W)" />
     <text lang="Italian" displayName="Mercader (F)" />
-    <baseStats hp="20" str="8" mag="0" skl="6" spd="5" lck="4" def="8" res="5" />
+    <baseStats hp="20" str="9" mag="0" skl="6" spd="6" lck="5" def="8" res="5" />
     <maxStats hp="65" str="33" mag="25" skl="29" spd="28" lck="32" def="33" res="30" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
-    <growthRates hp="20" str="20" mag="0" skl="10" spd="5" lck="15" def="10" res="5" />
+    <growthRates hp="20" str="20" mag="0" skl="10" spd="5" lck="20" def="15" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="83" name="Sorcerer_M">
@@ -1086,10 +1086,10 @@
     <text lang="French" displayName="Sorcier (H)" />
     <text lang="German" displayName="Zauberer (M)" />
     <text lang="Italian" displayName="Hechicero (M)" />
-    <baseStats hp="17" str="0" mag="9" skl="4" spd="6" lck="1" def="5" res="8" />
+    <baseStats hp="17" str="0" mag="10" skl="5" spd="6" lck="1" def="6" res="9" />
     <maxStats hp="50" str="25" mag="35" skl="26" spd="29" lck="26" def="29" res="33" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="0" mag="25" skl="0" spd="10" lck="0" def="5" res="15" />
+    <growthRates hp="5" str="0" mag="25" skl="0" spd="10" lck="0" def="10" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="84" name="Sorcerer_F">
@@ -1099,10 +1099,10 @@
     <text lang="French" displayName="Sorcier (F)" />
     <text lang="German" displayName="Zauberer (W)" />
     <text lang="Italian" displayName="Hechicero (F)" />
-    <baseStats hp="17" str="0" mag="9" skl="4" spd="6" lck="1" def="5" res="8" />
+    <baseStats hp="17" str="0" mag="10" skl="5" spd="6" lck="1" def="6" res="9" />
     <maxStats hp="50" str="25" mag="35" skl="26" spd="29" lck="26" def="29" res="33" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="0" mag="25" skl="0" spd="10" lck="0" def="5" res="15" />
+    <growthRates hp="5" str="0" mag="25" skl="0" spd="10" lck="0" def="10" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="85" name="DarkMage_M">
@@ -1115,7 +1115,7 @@
     <baseStats hp="16" str="0" mag="6" skl="3" spd="3" lck="1" def="3" res="5" />
     <maxStats hp="35" str="19" mag="24" skl="16" spd="19" lck="18" def="19" res="22" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="10" mag="20" skl="0" spd="10" lck="0" def="5" res="10" />
+    <growthRates hp="0" str="10" mag="20" skl="0" spd="10" lck="0" def="10" res="10" />
     <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="86" name="DarkMage_F">
@@ -1128,7 +1128,7 @@
     <baseStats hp="16" str="0" mag="6" skl="3" spd="3" lck="1" def="3" res="5" />
     <maxStats hp="35" str="19" mag="24" skl="16" spd="19" lck="18" def="19" res="22" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="10" mag="20" skl="0" spd="10" lck="0" def="5" res="10" />
+    <growthRates hp="0" str="10" mag="20" skl="0" spd="10" lck="0" def="10" res="10" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="87" name="DarkKnight_M">
@@ -1164,10 +1164,10 @@
     <text lang="French" displayName="Tacticien (H)" />
     <text lang="German" displayName="Stratege (M)" />
     <text lang="Italian" displayName="Táctico (M)" />
-    <baseStats hp="16" str="0" mag="7" skl="6" spd="7" lck="5" def="2" res="7" />
-    <maxStats hp="45" str="25" mag="33" skl="28" spd="31" lck="33" def="25" res="32" />
+    <baseStats hp="16" str="0" mag="7" skl="7" spd="7" lck="5" def="2" res="7" />
+    <maxStats hp="45" str="25" mag="33" skl="30" spd="31" lck="33" def="25" res="32" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="true" stone="false" />
-    <growthRates hp="0" str="0" mag="15" skl="5" spd="10" lck="20" def="0" res="15" />
+    <growthRates hp="0" str="0" mag="15" skl="10" spd="10" lck="20" def="0" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="90" name="Strategist_F">
@@ -1177,10 +1177,10 @@
     <text lang="French" displayName="Tacticien (F)" />
     <text lang="German" displayName="Stratege (W)" />
     <text lang="Italian" displayName="Táctico (F)" />
-    <baseStats hp="16" str="0" mag="7" skl="6" spd="7" lck="5" def="2" res="7" />
-    <maxStats hp="45" str="25" mag="33" skl="28" spd="31" lck="33" def="25" res="32" />
+    <baseStats hp="16" str="0" mag="7" skl="7" spd="7" lck="5" def="2" res="7" />
+    <maxStats hp="45" str="25" mag="33" skl="30" spd="31" lck="33" def="25" res="32" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="true" stone="false" />
-    <growthRates hp="0" str="0" mag="15" skl="5" spd="10" lck="20" def="0" res="15" />
+    <growthRates hp="0" str="0" mag="15" skl="10" spd="10" lck="20" def="0" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="91" name="Troubadour_M">
@@ -1193,7 +1193,7 @@
     <baseStats hp="15" str="0" mag="3" skl="7" spd="5" lck="4" def="1" res="4" />
     <maxStats hp="35" str="16" mag="19" skl="24" spd="20" lck="23" def="16" res="21" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
-    <growthRates hp="0" str="0" mag="10" skl="20" spd="10" lck="15" def="0" res="15" />
+    <growthRates hp="0" str="5" mag="10" skl="20" spd="10" lck="15" def="0" res="15" />
     <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="92" name="Troubadour_F">
@@ -1206,7 +1206,7 @@
     <baseStats hp="15" str="0" mag="3" skl="7" spd="5" lck="4" def="1" res="4" />
     <maxStats hp="35" str="16" mag="19" skl="24" spd="20" lck="23" def="16" res="21" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
-    <growthRates hp="0" str="0" mag="10" skl="20" spd="10" lck="15" def="0" res="15" />
+    <growthRates hp="0" str="5" mag="10" skl="20" spd="10" lck="15" def="0" res="15" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="93" name="Butler">
@@ -1216,8 +1216,8 @@
     <text lang="French" displayName="Majordome" />
     <text lang="German" displayName="Diener" />
     <text lang="Italian" displayName="Mayordomo" />
-    <baseStats hp="18" str="4" mag="5" skl="9" spd="8" lck="4" def="5" res="4" />
-    <maxStats hp="50" str="28" mag="31" skl="33" spd="33" lck="32" def="29" res="29" />
+    <baseStats hp="18" str="5" mag="6" skl="9" spd="9" lck="4" def="5" res="5" />
+    <maxStats hp="50" str="29" mag="31" skl="33" spd="33" lck="32" def="29" res="29" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="0" str="10" mag="10" skl="15" spd="15" lck="10" def="5" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
@@ -1229,8 +1229,8 @@
     <text lang="French" displayName="Domestique" />
     <text lang="German" displayName="Dienstmagd" />
     <text lang="Italian" displayName="Criada" />
-    <baseStats hp="18" str="4" mag="5" skl="9" spd="8" lck="4" def="5" res="4" />
-    <maxStats hp="50" str="28" mag="31" skl="33" spd="33" lck="32" def="29" res="29" />
+    <baseStats hp="18" str="5" mag="6" skl="9" spd="9" lck="4" def="5" res="5" />
+    <maxStats hp="50" str="29" mag="31" skl="33" spd="33" lck="32" def="29" res="29" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="0" str="10" mag="10" skl="15" spd="15" lck="10" def="5" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
@@ -1271,7 +1271,7 @@
     <baseStats hp="22" str="11" mag="0" skl="6" spd="7" lck="1" def="7" res="1" />
     <maxStats hp="65" str="36" mag="25" skl="29" spd="31" lck="26" def="32" res="26" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
-    <growthRates hp="20" str="20" mag="0" skl="5" spd="15" lck="5" def="10" res="0" />
+    <growthRates hp="20" str="20" mag="0" skl="5" spd="15" lck="5" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="98" name="Wolfssegner_F">
@@ -1284,7 +1284,7 @@
     <baseStats hp="22" str="11" mag="0" skl="6" spd="7" lck="1" def="7" res="1" />
     <maxStats hp="65" str="36" mag="25" skl="29" spd="31" lck="26" def="32" res="26" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
-    <growthRates hp="20" str="20" mag="0" skl="5" spd="15" lck="5" def="10" res="0" />
+    <growthRates hp="20" str="20" mag="0" skl="5" spd="15" lck="5" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="99" name="Kitsune_M">
@@ -1297,7 +1297,7 @@
     <baseStats hp="16" str="5" mag="1" skl="6" spd="8" lck="4" def="1" res="4" />
     <maxStats hp="40" str="20" mag="18" skl="23" spd="24" lck="24" def="18" res="23" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
-    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="10" def="0" res="20" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="15" def="0" res="20" />
     <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="100" name="Kitsune_F">
@@ -1310,7 +1310,7 @@
     <baseStats hp="16" str="5" mag="1" skl="6" spd="8" lck="4" def="1" res="4" />
     <maxStats hp="40" str="20" mag="18" skl="23" spd="24" lck="24" def="18" res="23" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
-    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="10" def="0" res="20" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="15" def="0" res="20" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="101" name="NineTails_M">
@@ -1323,7 +1323,7 @@
     <baseStats hp="19" str="6" mag="2" skl="9" spd="10" lck="5" def="2" res="8" />
     <maxStats hp="55" str="29" mag="29" skl="33" spd="34" lck="33" def="27" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
-    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="10" def="0" res="20" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="20" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="102" name="NineTails_F">
@@ -1336,7 +1336,7 @@
     <baseStats hp="19" str="6" mag="2" skl="9" spd="10" lck="5" def="2" res="8" />
     <maxStats hp="55" str="29" mag="29" skl="33" spd="34" lck="33" def="27" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
-    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="10" def="0" res="20" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="20" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="103" name="Songstress">
@@ -1385,11 +1385,11 @@
     <text lang="French" displayName="Sentinelle" />
     <text lang="German" displayName="Wächter" />
     <text lang="Italian" displayName="Lancero" />
-    <baseStats hp="17" str="5" mag="0" skl="5" spd="5" lck="2" def="5" res="2" />
+    <baseStats hp="18" str="5" mag="0" skl="5" spd="5" lck="2" def="7" res="2" />
     <maxStats hp="60" str="31" mag="25" skl="29" spd="29" lck="30" def="31" res="29" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="10" str="10" mag="0" skl="10" spd="10" lck="5" def="10" res="10" />
-    <categories isPromoted="false" isSpecial="true" isFemale="false" isNpcOnly="false" />
+    <growthRates hp="15" str="10" mag="0" skl="10" spd="10" lck="5" def="20" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="107" name="Faceless">
     <text lang="English" displayName="Faceless" />
@@ -1543,9 +1543,9 @@
     <text lang="Italian" displayName="Ajusticiador (M)" />
     <baseStats hp="19" str="8" mag="3" skl="6" spd="8" lck="1" def="6" res="9" />
     <maxStats hp="55" str="32" mag="28" skl="29" spd="31" lck="26" def="29" res="34" />
-    <weaponsUsed sword="true" lance="true" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
+    <weaponsUsed sword="false" lance="false" axe="true" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="15" str="15" mag="5" skl="5" spd="15" lck="0" def="5" res="20" />
-    <categories isPromoted="false" isSpecial="true" isFemale="false" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="119" name="DreadFighter_F">
     <text lang="English" displayName="Dread Fighter (F)" />
@@ -1556,9 +1556,9 @@
     <text lang="Italian" displayName="Ajusticiador (F)" />
     <baseStats hp="19" str="8" mag="3" skl="6" spd="8" lck="1" def="6" res="9" />
     <maxStats hp="55" str="32" mag="28" skl="29" spd="31" lck="26" def="29" res="34" />
-    <weaponsUsed sword="true" lance="true" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
+    <weaponsUsed sword="false" lance="false" axe="true" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="15" str="15" mag="5" skl="5" spd="15" lck="0" def="5" res="20" />
-    <categories isPromoted="false" isSpecial="true" isFemale="true" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="120" name="DarkFalcon_M">
     <text lang="English" displayName="Dark Falcon (M)" />
@@ -1570,8 +1570,8 @@
     <baseStats hp="17" str="4" mag="7" skl="5" spd="9" lck="4" def="3" res="9" />
     <maxStats hp="45" str="27" mag="32" skl="28" spd="33" lck="32" def="26" res="34" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="10" mag="15" skl="5" spd="15" lck="15" def="0" res="20" />
-    <categories isPromoted="false" isSpecial="true" isFemale="false" isNpcOnly="false" />
+    <growthRates hp="0" str="5" mag="15" skl="5" spd="15" lck="15" def="0" res="20" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="121" name="DarkFalcon_F">
     <text lang="English" displayName="Dark Falcon (F)" />
@@ -1583,8 +1583,8 @@
     <baseStats hp="17" str="4" mag="7" skl="5" spd="9" lck="4" def="3" res="9" />
     <maxStats hp="45" str="27" mag="32" skl="28" spd="33" lck="32" def="26" res="34" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="0" str="10" mag="15" skl="5" spd="15" lck="15" def="0" res="20" />
-    <categories isPromoted="false" isSpecial="true" isFemale="true" isNpcOnly="false" />
+    <growthRates hp="0" str="5" mag="15" skl="5" spd="15" lck="15" def="0" res="20" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="122" name="Ballistician">
     <text lang="English" displayName="Ballistician" />
@@ -1593,11 +1593,11 @@
     <text lang="French" displayName="Balistaire" />
     <text lang="German" displayName="Ballistiker" />
     <text lang="Italian" displayName="Artillero" />
-    <baseStats hp="18" str="10" mag="0" skl="7" spd="2" lck="4" def="3" res="1" />
-    <maxStats hp="50" str="39" mag="25" skl="31" spd="25" lck="32" def="27" res="26" />
-    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
-    <growthRates hp="5" str="25" mag="0" skl="15" spd="0" lck="10" def="5" res="5" />
-    <categories isPromoted="false" isSpecial="true" isFemale="false" isNpcOnly="false" />
+    <baseStats hp="21" str="12" mag="0" skl="9" spd="5" lck="4" def="9" res="1" />
+    <maxStats hp="65" str="40" mag="25" skl="33" spd="27" lck="32" def="33" res="26" />
+    <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="25" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="123" name="Witch">
     <text lang="English" displayName="Witch" />
@@ -1609,8 +1609,8 @@
     <baseStats hp="17" str="0" mag="10" skl="5" spd="9" lck="3" def="4" res="5" />
     <maxStats hp="50" str="25" mag="36" skl="27" spd="34" lck="28" def="26" res="29" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
-    <growthRates hp="5" str="0" mag="25" skl="5" spd="20" lck="5" def="0" res="10" />
-    <categories isPromoted="false" isSpecial="true" isFemale="true" isNpcOnly="false" />
+    <growthRates hp="0" str="0" mag="25" skl="5" spd="20" lck="5" def="0" res="10" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="124" name="Lodestar">
     <text lang="English" displayName="Lodestar" />
@@ -1622,8 +1622,8 @@
     <baseStats hp="19" str="7" mag="0" skl="10" spd="9" lck="7" def="7" res="2" />
     <maxStats hp="60" str="29" mag="26" skl="35" spd="33" lck="40" def="30" res="29" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="15" str="10" mag="0" skl="20" spd="10" lck="25" def="5" res="5" />
-    <categories isPromoted="false" isSpecial="true" isFemale="false" isNpcOnly="false" />
+    <growthRates hp="15" str="10" mag="0" skl="20" spd="15" lck="25" def="5" res="5" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="125" name="Vanguard">
     <text lang="English" displayName="Vanguard" />
@@ -1632,11 +1632,11 @@
     <text lang="French" displayName="Rédempteur" />
     <text lang="German" displayName="Vorreiter" />
     <text lang="Italian" displayName="Adalid" />
-    <baseStats hp="21" str="10" mag="0" skl="6" spd="7" lck="3" def="9" res="1" />
-    <maxStats hp="65" str="36" mag="25" skl="29" spd="30" lck="30" def="32" res="27" />
+    <baseStats hp="21" str="10" mag="0" skl="8" spd="7" lck="3" def="9" res="1" />
+    <maxStats hp="65" str="36" mag="25" skl="32" spd="30" lck="30" def="32" res="27" />
     <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="20" str="20" mag="0" skl="5" spd="5" lck="10" def="15" res="0" />
-    <categories isPromoted="false" isSpecial="true" isFemale="false" isNpcOnly="false" />
+    <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="126" name="GreatLord">
     <text lang="English" displayName="Great Lord" />
@@ -1648,8 +1648,8 @@
     <baseStats hp="18" str="8" mag="1" skl="8" spd="9" lck="5" def="7" res="3" />
     <maxStats hp="60" str="30" mag="25" skl="32" spd="34" lck="35" def="29" res="31" />
     <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
-    <growthRates hp="15" str="15" mag="0" skl="10" spd="10" lck="15" def="10" res="5" />
-    <categories isPromoted="false" isSpecial="true" isFemale="true" isNpcOnly="false" />
+    <growthRates hp="15" str="15" mag="0" skl="10" spd="15" lck="15" def="5" res="5" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="127" name="Grandmaster">
     <text lang="English" displayName="Grandmaster" />
@@ -1662,7 +1662,7 @@
     <maxStats hp="55" str="31" mag="33" skl="33" spd="29" lck="26" def="28" res="33" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
     <growthRates hp="10" str="15" mag="15" skl="15" spd="5" lck="0" def="5" res="15" />
-    <categories isPromoted="false" isSpecial="true" isFemale="false" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="128" name="Outrealm">
     <text lang="English" displayName="Outrealm Class" />
