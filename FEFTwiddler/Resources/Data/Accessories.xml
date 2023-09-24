@@ -512,8 +512,8 @@
     <text lang="German" displayName="Liebesarmband" />
     <text lang="Italian" displayName="Bracciale cuore" />
   </accessory>
-  <accessory id="64" name="TogaofLove" type="Underwear">
-    <text lang="English" displayName="Toga of Love" />
+  <accessory id="64" name="WitchHat" type="Headwear">
+    <text lang="English" displayName="Mage's Hat" />
     <text lang="Japanese" displayName="愛の水着" />
     <text lang="Spanish" displayName="Toga del amor" />
     <text lang="French" displayName="Toge d'amour" />
