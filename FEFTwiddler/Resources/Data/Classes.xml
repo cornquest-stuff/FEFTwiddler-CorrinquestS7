@@ -723,7 +723,7 @@
     <text lang="German" displayName="Erzmeister" />
     <text lang="Italian" displayName="Gran maestre" />
     <baseStats hp="19" str="8" mag="6" skl="6" spd="8" lck="5" def="6" res="7" />
-    <maxStats hp="55" str="32" mag="30" skl="31" spd="33" lck="32" def="28" res="32" />
+    <maxStats hp="55" str="32" mag="30" skl="31" spd="33" lck="35" def="28" res="32" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="true" stone="false" />
     <growthRates hp="10" str="15" mag="5" skl="5" spd="15" lck="20" def="10" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
@@ -736,7 +736,7 @@
     <text lang="German" displayName="Priesterin" />
     <text lang="Italian" displayName="Sacerdotisa" />
     <baseStats hp="19" str="6" mag="7" skl="6" spd="9" lck="5" def="5" res="8" />
-    <maxStats hp="50" str="29" mag="32" skl="30" spd="33" lck="34" def="26" res="34" />
+    <maxStats hp="50" str="29" mag="32" skl="30" spd="33" lck="35" def="26" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="true" stone="false" />
     <growthRates hp="10" str="10" mag="10" skl="5" spd="15" lck="20" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
@@ -1061,7 +1061,7 @@
     <text lang="German" displayName="Händler (M)" />
     <text lang="Italian" displayName="Mercader (M)" />
     <baseStats hp="20" str="9" mag="0" skl="6" spd="6" lck="5" def="8" res="5" />
-    <maxStats hp="65" str="33" mag="25" skl="29" spd="28" lck="32" def="33" res="30" />
+    <maxStats hp="65" str="34" mag="25" skl="29" spd="28" lck="35" def="33" res="30" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="20" mag="0" skl="10" spd="5" lck="20" def="15" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
@@ -1074,7 +1074,7 @@
     <text lang="German" displayName="Händler (W)" />
     <text lang="Italian" displayName="Mercader (F)" />
     <baseStats hp="20" str="9" mag="0" skl="6" spd="6" lck="5" def="8" res="5" />
-    <maxStats hp="65" str="33" mag="25" skl="29" spd="28" lck="32" def="33" res="30" />
+    <maxStats hp="65" str="34" mag="25" skl="29" spd="28" lck="35" def="33" res="30" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="20" mag="0" skl="10" spd="5" lck="20" def="15" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
@@ -1165,7 +1165,7 @@
     <text lang="German" displayName="Stratege (M)" />
     <text lang="Italian" displayName="Táctico (M)" />
     <baseStats hp="16" str="0" mag="7" skl="7" spd="7" lck="5" def="2" res="7" />
-    <maxStats hp="45" str="25" mag="33" skl="30" spd="31" lck="33" def="25" res="32" />
+    <maxStats hp="45" str="25" mag="33" skl="30" spd="31" lck="35" def="25" res="32" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="true" stone="false" />
     <growthRates hp="0" str="0" mag="15" skl="10" spd="10" lck="20" def="0" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
@@ -1178,7 +1178,7 @@
     <text lang="German" displayName="Stratege (W)" />
     <text lang="Italian" displayName="Táctico (F)" />
     <baseStats hp="16" str="0" mag="7" skl="7" spd="7" lck="5" def="2" res="7" />
-    <maxStats hp="45" str="25" mag="33" skl="30" spd="31" lck="33" def="25" res="32" />
+    <maxStats hp="45" str="25" mag="33" skl="30" spd="31" lck="35" def="25" res="32" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="true" stone="false" />
     <growthRates hp="0" str="0" mag="15" skl="10" spd="10" lck="20" def="0" res="15" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
@@ -1321,7 +1321,7 @@
     <text lang="German" displayName="Fuchsgeist (M)" />
     <text lang="Italian" displayName="Nuevecolas (M)" />
     <baseStats hp="19" str="6" mag="2" skl="9" spd="10" lck="5" def="2" res="8" />
-    <maxStats hp="55" str="29" mag="29" skl="33" spd="34" lck="33" def="27" res="34" />
+    <maxStats hp="55" str="29" mag="29" skl="33" spd="34" lck="35" def="27" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
     <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="20" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
@@ -1334,7 +1334,7 @@
     <text lang="German" displayName="Fuchsgeist (W)" />
     <text lang="Italian" displayName="Nuevecolas (F)" />
     <baseStats hp="19" str="6" mag="2" skl="9" spd="10" lck="5" def="2" res="8" />
-    <maxStats hp="55" str="29" mag="29" skl="33" spd="34" lck="33" def="27" res="34" />
+    <maxStats hp="55" str="29" mag="29" skl="33" spd="34" lck="35" def="27" res="34" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
     <growthRates hp="10" str="10" mag="0" skl="15" spd="20" lck="20" def="0" res="20" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
