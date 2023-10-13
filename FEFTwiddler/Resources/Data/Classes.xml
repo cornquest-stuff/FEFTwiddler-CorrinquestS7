@@ -1976,7 +1976,7 @@
     <growthRates hp="20" str="25" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
-  <class id="123" name="Warlock">
+  <class id="165" name="Warlock">
     <text lang="English" displayName="Witch (M)/Warlock" />
     <text lang="Japanese" displayName="魔女男/ウォーロック" />
     <text lang="Spanish" displayName="Bruja (H)/Animista" />
@@ -1989,7 +1989,7 @@
     <growthRates hp="0" str="0" mag="25" skl="5" spd="20" lck="5" def="0" res="10" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
-  <class id="124" name="Lodestar_F">
+  <class id="166" name="Lodestar_F">
     <text lang="English" displayName="Lodestar (F)" />
     <text lang="Japanese" displayName="スターロード女" />
     <text lang="Spanish" displayName="Polaris (M)" />
@@ -2002,7 +2002,7 @@
     <growthRates hp="15" str="10" mag="0" skl="20" spd="15" lck="25" def="5" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
-  <class id="125" name="Vanguard_F">
+  <class id="167" name="Vanguard_F">
     <text lang="English" displayName="Vanguard (F)" />
     <text lang="Japanese" displayName="ヴァンガード女" />
     <text lang="Spanish" displayName="Adalid (M)" />
@@ -2015,7 +2015,7 @@
     <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
-  <class id="126" name="GreatLord_M">
+  <class id="168" name="GreatLord_M">
     <text lang="English" displayName="Great Lord (M)" />
     <text lang="Japanese" displayName="マスターロード男" />
     <text lang="Spanish" displayName="Gran lord (H)" />
@@ -2028,7 +2028,7 @@
     <growthRates hp="15" str="15" mag="0" skl="10" spd="15" lck="15" def="5" res="5" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
-  <class id="127" name="Grandmaster_F">
+  <class id="169" name="Grandmaster_F">
     <text lang="English" displayName="Grandmaster (F)" />
     <text lang="Japanese" displayName="神軍師女" />
     <text lang="Spanish" displayName="Gran estratega (M)" />
