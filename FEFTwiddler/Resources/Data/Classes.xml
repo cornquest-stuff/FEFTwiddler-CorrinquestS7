@@ -1379,12 +1379,12 @@
     <categories isPromoted="false" isSpecial="true" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="106" name="Lancer">
-    <text lang="English" displayName="Lancer" />
-    <text lang="Japanese" displayName="ランサー" />
-    <text lang="Spanish" displayName="Lancero" />
-    <text lang="French" displayName="Sentinelle" />
-    <text lang="German" displayName="Wächter" />
-    <text lang="Italian" displayName="Lancero" />
+    <text lang="English" displayName="Lancer (M)" />
+    <text lang="Japanese" displayName="ランサー男" />
+    <text lang="Spanish" displayName="Lancero (H)" />
+    <text lang="French" displayName="Sentinelle (H)" />
+    <text lang="German" displayName="Wächter (M)" />
+    <text lang="Italian" displayName="Lancero (M)" />
     <baseStats hp="18" str="5" mag="0" skl="5" spd="5" lck="2" def="7" res="2" />
     <maxStats hp="60" str="31" mag="25" skl="29" spd="29" lck="30" def="31" res="29" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1587,12 +1587,12 @@
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="122" name="Ballistician">
-    <text lang="English" displayName="Ballistician" />
-    <text lang="Japanese" displayName="シューター" />
-    <text lang="Spanish" displayName="Artillero" />
-    <text lang="French" displayName="Balistaire" />
-    <text lang="German" displayName="Ballistiker" />
-    <text lang="Italian" displayName="Artillero" />
+    <text lang="English" displayName="Ballistician (M)" />
+    <text lang="Japanese" displayName="シューター男" />
+    <text lang="Spanish" displayName="Artillero (H)" />
+    <text lang="French" displayName="Balistaire (H)" />
+    <text lang="German" displayName="Ballistiker (M)" />
+    <text lang="Italian" displayName="Artillero (M)" />
     <baseStats hp="21" str="12" mag="0" skl="9" spd="5" lck="4" def="9" res="1" />
     <maxStats hp="65" str="40" mag="25" skl="33" spd="27" lck="32" def="33" res="26" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
@@ -1600,12 +1600,12 @@
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="123" name="Witch">
-    <text lang="English" displayName="Witch" />
-    <text lang="Japanese" displayName="魔女" />
-    <text lang="Spanish" displayName="Bruja" />
-    <text lang="French" displayName="Sorcière" />
-    <text lang="German" displayName="Hexe" />
-    <text lang="Italian" displayName="Bruja" />
+    <text lang="English" displayName="Witch (F)" />
+    <text lang="Japanese" displayName="魔女女" />
+    <text lang="Spanish" displayName="Bruja (M)" />
+    <text lang="French" displayName="Sorcière (F)" />
+    <text lang="German" displayName="Hexe (W)" />
+    <text lang="Italian" displayName="Bruja (F)" />
     <baseStats hp="17" str="0" mag="10" skl="5" spd="9" lck="3" def="4" res="5" />
     <maxStats hp="50" str="25" mag="36" skl="27" spd="34" lck="28" def="26" res="29" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
@@ -1613,12 +1613,12 @@
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="124" name="Lodestar">
-    <text lang="English" displayName="Lodestar" />
-    <text lang="Japanese" displayName="スターロード" />
-    <text lang="Spanish" displayName="Polaris" />
-    <text lang="French" displayName="Guide" />
-    <text lang="German" displayName="Sternenlord" />
-    <text lang="Italian" displayName="Polaris" />
+    <text lang="English" displayName="Lodestar (M)" />
+    <text lang="Japanese" displayName="スターロード男" />
+    <text lang="Spanish" displayName="Polaris (H)" />
+    <text lang="French" displayName="Guide (H)" />
+    <text lang="German" displayName="Sternenlord (M)" />
+    <text lang="Italian" displayName="Polaris (M)" />
     <baseStats hp="19" str="7" mag="0" skl="10" spd="9" lck="7" def="7" res="2" />
     <maxStats hp="60" str="29" mag="26" skl="35" spd="33" lck="40" def="30" res="29" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1626,12 +1626,12 @@
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="125" name="Vanguard">
-    <text lang="English" displayName="Vanguard" />
-    <text lang="Japanese" displayName="ヴァンガード" />
-    <text lang="Spanish" displayName="Adalid" />
-    <text lang="French" displayName="Rédempteur" />
-    <text lang="German" displayName="Vorreiter" />
-    <text lang="Italian" displayName="Adalid" />
+    <text lang="English" displayName="Vanguard (M)" />
+    <text lang="Japanese" displayName="ヴァンガード男" />
+    <text lang="Spanish" displayName="Adalid (H)" />
+    <text lang="French" displayName="Rédempteur (H)" />
+    <text lang="German" displayName="Vorreiter (M)" />
+    <text lang="Italian" displayName="Adalid (M)" />
     <baseStats hp="21" str="10" mag="0" skl="8" spd="7" lck="3" def="9" res="1" />
     <maxStats hp="65" str="36" mag="25" skl="32" spd="30" lck="30" def="32" res="27" />
     <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1639,12 +1639,12 @@
     <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="126" name="GreatLord">
-    <text lang="English" displayName="Great Lord" />
-    <text lang="Japanese" displayName="マスターロード" />
-    <text lang="Spanish" displayName="Gran lord" />
-    <text lang="French" displayName="Grand lord" />
-    <text lang="German" displayName="Erzlord" />
-    <text lang="Italian" displayName="Gran lord" />
+    <text lang="English" displayName="Great Lord (F)" />
+    <text lang="Japanese" displayName="マスターロード女" />
+    <text lang="Spanish" displayName="Gran lord (M)" />
+    <text lang="French" displayName="Grand lord (F)" />
+    <text lang="German" displayName="Erzlord (W)" />
+    <text lang="Italian" displayName="Gran lord (F)" />
     <baseStats hp="18" str="8" mag="1" skl="8" spd="9" lck="5" def="7" res="3" />
     <maxStats hp="60" str="30" mag="25" skl="32" spd="34" lck="35" def="29" res="31" />
     <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1652,12 +1652,12 @@
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="127" name="Grandmaster">
-    <text lang="English" displayName="Grandmaster" />
-    <text lang="Japanese" displayName="神軍師" />
-    <text lang="Spanish" displayName="Gran estratega" />
-    <text lang="French" displayName="Maître stratège" />
-    <text lang="German" displayName="Großmeister" />
-    <text lang="Italian" displayName="Gran estratega" />
+    <text lang="English" displayName="Grandmaster (M)" />
+    <text lang="Japanese" displayName="神軍師男" />
+    <text lang="Spanish" displayName="Gran estratega (H)" />
+    <text lang="French" displayName="Maître stratège (H)" />
+    <text lang="German" displayName="Großmeister (M)" />
+    <text lang="Italian" displayName="Gran estratega (M)" />
     <baseStats hp="18" str="7" mag="6" skl="8" spd="7" lck="2" def="6" res="8" />
     <maxStats hp="55" str="31" mag="33" skl="33" spd="29" lck="26" def="28" res="33" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
@@ -1692,11 +1692,11 @@
   </class>
   <class id="143" name="NohrPrince2_M">
     <text lang="English" displayName="Nohr Prince 2 (M)" />
-    <text lang="Japanese" displayName="ダークプリンス男" />
-    <text lang="Spanish" displayName="Príncipe nohrio (H)" />
-    <text lang="French" displayName="Sire de Nohr (H)" />
-    <text lang="German" displayName="Prinz (Nohr) (M)" />
-    <text lang="Italian" displayName="Príncipe nohrio (M)" />
+    <text lang="Japanese" displayName="ダークプリンス男2" />
+    <text lang="Spanish" displayName="Príncipe nohrio 2 (H)" />
+    <text lang="French" displayName="Sire de Nohr 2 (H)" />
+    <text lang="German" displayName="Prinz (Nohr) 2 (M)" />
+    <text lang="Italian" displayName="Príncipe nohrio 2 (M)" />
     <baseStats hp="17" str="7" mag="3" skl="4" spd="5" lck="2" def="5" res="2" />
     <maxStats hp="40" str="23" mag="17" skl="19" spd="21" lck="22" def="21" res="19" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
@@ -1705,11 +1705,11 @@
   </class>
   <class id="144" name="NohrPrince2_F">
     <text lang="English" displayName="Nohr Princess 2 (F)" />
-    <text lang="Japanese" displayName="ダークプリンセス女" />
-    <text lang="Spanish" displayName="Princesa nohria (M)" />
-    <text lang="French" displayName="Dame de Nohr (F)" />
-    <text lang="German" displayName="Prinzessin (N.) (W)" />
-    <text lang="Italian" displayName="Princesa nohria (F)" />
+    <text lang="Japanese" displayName="ダークプリンセス女2" />
+    <text lang="Spanish" displayName="Princesa nohria 2 (M)" />
+    <text lang="French" displayName="Dame de Nohr 2 (F)" />
+    <text lang="German" displayName="Prinzessin (N.) 2 (W)" />
+    <text lang="Italian" displayName="Princesa nohria 2 (F)" />
     <baseStats hp="17" str="7" mag="3" skl="4" spd="5" lck="2" def="5" res="2" />
     <maxStats hp="40" str="23" mag="17" skl="19" spd="21" lck="22" def="21" res="19" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="true" />
@@ -1718,11 +1718,11 @@
   </class>
   <class id="145" name="Knight2_M">
     <text lang="English" displayName="Knight 2 (M)" />
-    <text lang="Japanese" displayName="アーマーナイト男" />
-    <text lang="Spanish" displayName="Caballero (H)" />
-    <text lang="French" displayName="Chevalier (H)" />
-    <text lang="German" displayName="Ritter (M)" />
-    <text lang="Italian" displayName="Caballero (M)" />
+    <text lang="Japanese" displayName="アーマーナイト男2" />
+    <text lang="Spanish" displayName="Caballero 2 (H)" />
+    <text lang="French" displayName="Chevalier 2 (H)" />
+    <text lang="German" displayName="Ritter 2 (M)" />
+    <text lang="Italian" displayName="Caballero 2 (M)" />
     <baseStats hp="19" str="8" mag="0" skl="5" spd="3" lck="3" def="8" res="1" />
     <maxStats hp="45" str="24" mag="15" skl="22" spd="17" lck="22" def="26" res="18" />
     <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1731,11 +1731,11 @@
   </class>
   <class id="146" name="Knight2_F">
     <text lang="English" displayName="Knight 2 (F)" />
-    <text lang="Japanese" displayName="アーマーナイト女" />
-    <text lang="Spanish" displayName="Caballero (M)" />
-    <text lang="French" displayName="Chevalier (F)" />
-    <text lang="German" displayName="Ritter (W)" />
-    <text lang="Italian" displayName="Caballero (F)" />
+    <text lang="Japanese" displayName="アーマーナイト女2" />
+    <text lang="Spanish" displayName="Caballero 2 (M)" />
+    <text lang="French" displayName="Chevalier 2 (F)" />
+    <text lang="German" displayName="Ritter 2 (W)" />
+    <text lang="Italian" displayName="Caballero 2 (F)" />
     <baseStats hp="19" str="8" mag="0" skl="5" spd="3" lck="3" def="8" res="1" />
     <maxStats hp="45" str="24" mag="15" skl="22" spd="17" lck="22" def="26" res="18" />
     <weaponsUsed sword="false" lance="true" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1744,11 +1744,11 @@
   </class>
   <class id="147" name="Mercenary2_M">
     <text lang="English" displayName="Mercenary 2 (M)" />
-    <text lang="Japanese" displayName="マーシナリー男" />
-    <text lang="Spanish" displayName="Mercenario (H)" />
-    <text lang="French" displayName="Mercenaire (H)" />
-    <text lang="German" displayName="Söldner (M)" />
-    <text lang="Italian" displayName="Mercenario (M)" />
+    <text lang="Japanese" displayName="マーシナリー男2" />
+    <text lang="Spanish" displayName="Mercenario 2 (H)" />
+    <text lang="French" displayName="Mercenaire 2 (H)" />
+    <text lang="German" displayName="Söldner 2 (M)" />
+    <text lang="Italian" displayName="Mercenario 2 (M)" />
     <baseStats hp="17" str="5" mag="0" skl="7" spd="6" lck="2" def="5" res="2" />
     <maxStats hp="40" str="22" mag="15" skl="24" spd="22" lck="20" def="21" res="19" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1757,11 +1757,11 @@
   </class>
   <class id="148" name="Mercenary2_F">
     <text lang="English" displayName="Mercenary 2 (F)" />
-    <text lang="Japanese" displayName="マーシナリー女" />
-    <text lang="Spanish" displayName="Mercenario (M)" />
-    <text lang="French" displayName="Mercenaire (F)" />
-    <text lang="German" displayName="Söldner (W)" />
-    <text lang="Italian" displayName="Mercenario (F)" />
+    <text lang="Japanese" displayName="マーシナリー女2" />
+    <text lang="Spanish" displayName="Mercenario 2 (M)" />
+    <text lang="French" displayName="Mercenaire 2 (F)" />
+    <text lang="German" displayName="Söldner 2 (W)" />
+    <text lang="Italian" displayName="Mercenario 2 (F)" />
     <baseStats hp="17" str="5" mag="0" skl="7" spd="6" lck="2" def="5" res="2" />
     <maxStats hp="40" str="22" mag="15" skl="24" spd="22" lck="20" def="21" res="19" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1770,11 +1770,11 @@
   </class>
   <class id="149" name="Samurai2_M">
     <text lang="English" displayName="Samurai 2 (M)" />
-    <text lang="Japanese" displayName="侍男" />
-    <text lang="Spanish" displayName="Samurái (H)" />
-    <text lang="French" displayName="Samouraï (H)" />
-    <text lang="German" displayName="Samurai (M)" />
-    <text lang="Italian" displayName="Samurái (M)" />
+    <text lang="Japanese" displayName="侍男2" />
+    <text lang="Spanish" displayName="Samurái 2 (H)" />
+    <text lang="French" displayName="Samouraï 2 (H)" />
+    <text lang="German" displayName="Samurai 2 (M)" />
+    <text lang="Italian" displayName="Samurái 2 (M)" />
     <baseStats hp="17" str="5" mag="0" skl="6" spd="8" lck="3" def="3" res="3" />
     <maxStats hp="40" str="20" mag="16" skl="23" spd="25" lck="24" def="18" res="20" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1783,11 +1783,11 @@
   </class>
   <class id="150" name="Samurai2_F">
     <text lang="English" displayName="Samurai 2 (F)" />
-    <text lang="Japanese" displayName="侍女" />
-    <text lang="Spanish" displayName="Samurái (M)" />
-    <text lang="French" displayName="Samouraï (F)" />
-    <text lang="German" displayName="Samurai (W)" />
-    <text lang="Italian" displayName="Samurái (F)" />
+    <text lang="Japanese" displayName="侍女2" />
+    <text lang="Spanish" displayName="Samurái 2 (M)" />
+    <text lang="French" displayName="Samouraï 2 (F)" />
+    <text lang="German" displayName="Samurai 2 (W)" />
+    <text lang="Italian" displayName="Samurái 2 (F)" />
     <baseStats hp="17" str="5" mag="0" skl="6" spd="8" lck="3" def="3" res="3" />
     <maxStats hp="40" str="20" mag="16" skl="23" spd="25" lck="24" def="18" res="20" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1796,11 +1796,11 @@
   </class>
   <class id="151" name="OniSavage2_M">
     <text lang="English" displayName="Oni Savage 2 (M)" />
-    <text lang="Japanese" displayName="鬼人男" />
-    <text lang="Spanish" displayName="Oni salvaje (H)" />
-    <text lang="French" displayName="Sauvage Oni (H)" />
-    <text lang="German" displayName="Oni-Barbar (M)" />
-    <text lang="Italian" displayName="Oni salvaje (M)" />
+    <text lang="Japanese" displayName="鬼人男2" />
+    <text lang="Spanish" displayName="Oni salvaje 2 (H)" />
+    <text lang="French" displayName="Sauvage Oni 2 (H)" />
+    <text lang="German" displayName="Oni-Barbar 2 (M)" />
+    <text lang="Italian" displayName="Oni salvaje 2 (M)" />
     <baseStats hp="18" str="6" mag="1" skl="2" spd="5" lck="0" def="7" res="1" />
     <maxStats hp="45" str="24" mag="19" skl="16" spd="20" lck="17" def="23" res="18" />
     <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1809,11 +1809,11 @@
   </class>
   <class id="152" name="OniSavage2_F">
     <text lang="English" displayName="Oni Savage 2 (F)" />
-    <text lang="Japanese" displayName="鬼人女" />
-    <text lang="Spanish" displayName="Oni salvaje (M)" />
-    <text lang="French" displayName="Sauvage Oni (F)" />
-    <text lang="German" displayName="Oni-Barbar (W)" />
-    <text lang="Italian" displayName="Oni salvaje (F)" />
+    <text lang="Japanese" displayName="鬼人女2" />
+    <text lang="Spanish" displayName="Oni salvaje 2 (M)" />
+    <text lang="French" displayName="Sauvage Oni 2 (F)" />
+    <text lang="German" displayName="Oni-Barbar 2 (W)" />
+    <text lang="Italian" displayName="Oni salvaje 2 (F)" />
     <baseStats hp="18" str="6" mag="1" skl="2" spd="5" lck="0" def="7" res="1" />
     <maxStats hp="45" str="24" mag="19" skl="16" spd="20" lck="17" def="23" res="18" />
     <weaponsUsed sword="false" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1822,11 +1822,11 @@
   </class>
   <class id="153" name="Diviner2_M">
     <text lang="English" displayName="Diviner 2 (M)" />
-    <text lang="Japanese" displayName="呪い師男" />
-    <text lang="Spanish" displayName="Augur (H)" />
-    <text lang="French" displayName="Devin (H)" />
-    <text lang="German" displayName="Kleriker (M)" />
-    <text lang="Italian" displayName="Augur (M)" />
+    <text lang="Japanese" displayName="呪い師男2" />
+    <text lang="Spanish" displayName="Augur 2 (H)" />
+    <text lang="French" displayName="Devin 2 (H)" />
+    <text lang="German" displayName="Kleriker 2 (M)" />
+    <text lang="Italian" displayName="Augur 2 (M)" />
     <baseStats hp="15" str="0" mag="4" skl="6" spd="6" lck="2" def="1" res="3" />
     <maxStats hp="35" str="17" mag="22" skl="20" spd="23" lck="19" def="16" res="20" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
@@ -1835,11 +1835,11 @@
   </class>
   <class id="154" name="Diviner2_F">
     <text lang="English" displayName="Diviner 2 (F)" />
-    <text lang="Japanese" displayName="呪い師女" />
-    <text lang="Spanish" displayName="Augur (M)" />
-    <text lang="French" displayName="Devin (F)" />
-    <text lang="German" displayName="Kleriker (W)" />
-    <text lang="Italian" displayName="Augur (F)" />
+    <text lang="Japanese" displayName="呪い師女2" />
+    <text lang="Spanish" displayName="Augur 2 (M)" />
+    <text lang="French" displayName="Devin 2 (F)" />
+    <text lang="German" displayName="Kleriker 2 (W)" />
+    <text lang="Italian" displayName="Augur 2 (F)" />
     <baseStats hp="15" str="0" mag="4" skl="6" spd="6" lck="2" def="1" res="3" />
     <maxStats hp="35" str="17" mag="22" skl="20" spd="23" lck="19" def="16" res="20" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
@@ -1848,11 +1848,11 @@
   </class>
   <class id="155" name="SkyKnight2_M">
     <text lang="English" displayName="Sky Knight 2 (M)" />
-    <text lang="Japanese" displayName="天馬武者男" />
-    <text lang="Spanish" displayName="Auriga celeste (H)" />
-    <text lang="French" displayName="Chev. céleste (H)" />
-    <text lang="German" displayName="Luftritter (M)" />
-    <text lang="Italian" displayName="Auriga celeste (M)" />
+    <text lang="Japanese" displayName="天馬武者男2" />
+    <text lang="Spanish" displayName="Auriga celeste 2 (H)" />
+    <text lang="French" displayName="Chev. céleste 2 (H)" />
+    <text lang="German" displayName="Luftritter 2 (M)" />
+    <text lang="Italian" displayName="Auriga celeste 2 (M)" />
     <baseStats hp="16" str="3" mag="1" skl="5" spd="7" lck="4" def="2" res="6" />
     <maxStats hp="35" str="19" mag="16" skl="21" spd="23" lck="25" def="18" res="25" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1861,11 +1861,11 @@
   </class>
   <class id="156" name="SkyKnight2_F">
     <text lang="English" displayName="Sky Knight 2 (F)" />
-    <text lang="Japanese" displayName="天馬武者女" />
-    <text lang="Spanish" displayName="Auriga celeste (M)" />
-    <text lang="French" displayName="Chev. céleste (F)" />
-    <text lang="German" displayName="Luftritter (W)" />
-    <text lang="Italian" displayName="Auriga celeste (F)" />
+    <text lang="Japanese" displayName="天馬武者女2" />
+    <text lang="Spanish" displayName="Auriga celeste 2 (M)" />
+    <text lang="French" displayName="Chev. céleste 2 (F)" />
+    <text lang="German" displayName="Luftritter 2 (W)" />
+    <text lang="Italian" displayName="Auriga celeste 2 (F)" />
     <baseStats hp="16" str="3" mag="1" skl="5" spd="7" lck="4" def="2" res="6" />
     <maxStats hp="35" str="19" mag="16" skl="21" spd="23" lck="25" def="18" res="25" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
@@ -1874,11 +1874,11 @@
   </class>
   <class id="157" name="Archer2_M">
     <text lang="English" displayName="Archer 2 (M)" />
-    <text lang="Japanese" displayName="弓使い男" />
-    <text lang="Spanish" displayName="Arquero (H)" />
-    <text lang="French" displayName="Archer (H)" />
-    <text lang="German" displayName="Schütze (M)" />
-    <text lang="Italian" displayName="Arquero (M)" />
+    <text lang="Japanese" displayName="弓使い男2" />
+    <text lang="Spanish" displayName="Arquero 2 (H)" />
+    <text lang="French" displayName="Archer 2 (H)" />
+    <text lang="German" displayName="Schütze 2 (M)" />
+    <text lang="Italian" displayName="Arquero 2 (M)" />
     <baseStats hp="17" str="5" mag="0" skl="7" spd="5" lck="2" def="4" res="1" />
     <maxStats hp="40" str="21" mag="15" skl="23" spd="21" lck="20" def="20" res="17" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
@@ -1887,11 +1887,11 @@
   </class>
   <class id="158" name="Archer2_F">
     <text lang="English" displayName="Archer 2 (F)" />
-    <text lang="Japanese" displayName="弓使い女" />
-    <text lang="Spanish" displayName="Arquero (M)" />
-    <text lang="French" displayName="Archer (F)" />
-    <text lang="German" displayName="Schütze (W)" />
-    <text lang="Italian" displayName="Arquero (F)" />
+    <text lang="Japanese" displayName="弓使い女2" />
+    <text lang="Spanish" displayName="Arquero 2 (M)" />
+    <text lang="French" displayName="Archer 2 (F)" />
+    <text lang="German" displayName="Schütze 2 (W)" />
+    <text lang="Italian" displayName="Arquero 2 (F)" />
     <baseStats hp="17" str="5" mag="0" skl="7" spd="5" lck="2" def="4" res="1" />
     <maxStats hp="40" str="21" mag="15" skl="23" spd="21" lck="20" def="20" res="17" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
@@ -1900,11 +1900,11 @@
   </class>
   <class id="159" name="Ninja2_M">
     <text lang="English" displayName="Ninja 2 (M)" />
-    <text lang="Japanese" displayName="忍男" />
-    <text lang="Spanish" displayName="Ninja (H)" />
-    <text lang="French" displayName="Ninja (H)" />
-    <text lang="German" displayName="Ninja (M)" />
-    <text lang="Italian" displayName="Ninja (M)" />
+    <text lang="Japanese" displayName="忍男2" />
+    <text lang="Spanish" displayName="Ninja 2 (H)" />
+    <text lang="French" displayName="Ninja 2 (H)" />
+    <text lang="German" displayName="Ninja 2 (M)" />
+    <text lang="Italian" displayName="Ninja 2 (M)" />
     <baseStats hp="16" str="3" mag="0" skl="8" spd="8" lck="1" def="3" res="3" />
     <maxStats hp="35" str="17" mag="15" skl="25" spd="25" lck="18" def="19" res="20" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
@@ -1913,11 +1913,11 @@
   </class>
   <class id="160" name="Ninja2_F">
     <text lang="English" displayName="Ninja 2 (F)" />
-    <text lang="Japanese" displayName="忍女" />
-    <text lang="Spanish" displayName="Ninja (M)" />
-    <text lang="French" displayName="Ninja (F)" />
-    <text lang="German" displayName="Ninja (W)" />
-    <text lang="Italian" displayName="Ninja (F)" />
+    <text lang="Japanese" displayName="忍女2" />
+    <text lang="Spanish" displayName="Ninja 2 (M)" />
+    <text lang="French" displayName="Ninja 2 (F)" />
+    <text lang="German" displayName="Ninja 2 (W)" />
+    <text lang="Italian" displayName="Ninja 2 (F)" />
     <baseStats hp="16" str="3" mag="0" skl="8" spd="8" lck="1" def="3" res="3" />
     <maxStats hp="35" str="17" mag="15" skl="25" spd="25" lck="18" def="19" res="20" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="false" tome="false" staff="false" stone="false" />
@@ -1926,11 +1926,11 @@
   </class>
   <class id="161" name="DarkMage2_M">
     <text lang="English" displayName="Dark Mage 2 (M)" />
-    <text lang="Japanese" displayName="ダークマージ男" />
-    <text lang="Spanish" displayName="Mago oscuro (H)" />
-    <text lang="French" displayName="Mage noir (H)" />
-    <text lang="German" displayName="Dunkelmagier (M)" />
-    <text lang="Italian" displayName="Mago oscuro (M)" />
+    <text lang="Japanese" displayName="ダークマージ男2" />
+    <text lang="Spanish" displayName="Mago oscuro 2 (H)" />
+    <text lang="French" displayName="Mage noir 2 (H)" />
+    <text lang="German" displayName="Dunkelmagier 2 (M)" />
+    <text lang="Italian" displayName="Mago oscuro 2 (M)" />
     <baseStats hp="16" str="0" mag="6" skl="3" spd="3" lck="1" def="3" res="5" />
     <maxStats hp="35" str="19" mag="24" skl="16" spd="19" lck="18" def="19" res="22" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
@@ -1939,16 +1939,107 @@
   </class>
   <class id="162" name="DarkMage2_F">
     <text lang="English" displayName="Dark Mage 2 (F)" />
-    <text lang="Japanese" displayName="ダークマージ女" />
-    <text lang="Spanish" displayName="Mago oscuro (M)" />
-    <text lang="French" displayName="Mage noir (F)" />
-    <text lang="German" displayName="Dunkelmagier (W)" />
-    <text lang="Italian" displayName="Mago oscuro (F)" />
+    <text lang="Japanese" displayName="ダークマージ女2" />
+    <text lang="Spanish" displayName="Mago oscuro 2 (M)" />
+    <text lang="French" displayName="Mage noir 2 (F)" />
+    <text lang="German" displayName="Dunkelmagier 2 (W)" />
+    <text lang="Italian" displayName="Mago oscuro 2 (F)" />
     <baseStats hp="16" str="0" mag="6" skl="3" spd="3" lck="1" def="3" res="5" />
     <maxStats hp="35" str="19" mag="24" skl="16" spd="19" lck="18" def="19" res="22" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
     <growthRates hp="0" str="10" mag="20" skl="0" spd="10" lck="0" def="5" res="10" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="163" name="Lancer_F">
+    <text lang="English" displayName="Lancer (F)" />
+    <text lang="Japanese" displayName="ランサー女" />
+    <text lang="Spanish" displayName="Lancero (M)" />
+    <text lang="French" displayName="Sentinelle (F)" />
+    <text lang="German" displayName="Wächter (W)" />
+    <text lang="Italian" displayName="Lancero (F)" />
+    <baseStats hp="18" str="5" mag="0" skl="5" spd="5" lck="2" def="7" res="2" />
+    <maxStats hp="60" str="31" mag="25" skl="29" spd="29" lck="30" def="31" res="29" />
+    <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="15" str="10" mag="0" skl="10" spd="10" lck="5" def="20" res="10" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="164" name="Ballistician_F">
+    <text lang="English" displayName="Ballistician (F)" />
+    <text lang="Japanese" displayName="シューター女" />
+    <text lang="Spanish" displayName="Artillero (M)" />
+    <text lang="French" displayName="Balistaire (F)" />
+    <text lang="German" displayName="Ballistiker (W)" />
+    <text lang="Italian" displayName="Artillero (F)" />
+    <baseStats hp="21" str="12" mag="0" skl="9" spd="5" lck="4" def="9" res="1" />
+    <maxStats hp="65" str="40" mag="25" skl="33" spd="27" lck="32" def="33" res="26" />
+    <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="25" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="123" name="Warlock">
+    <text lang="English" displayName="Witch (M)/Warlock" />
+    <text lang="Japanese" displayName="魔女男/ウォーロック" />
+    <text lang="Spanish" displayName="Bruja (H)/Animista" />
+    <text lang="French" displayName="Sorcière (H)/Enchanteur" />
+    <text lang="German" displayName="Hexe (M)/Hexer" />
+    <text lang="Italian" displayName="Bruja (M)/Warlock" />
+    <baseStats hp="17" str="0" mag="10" skl="5" spd="9" lck="3" def="4" res="5" />
+    <maxStats hp="50" str="25" mag="36" skl="27" spd="34" lck="28" def="26" res="29" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
+    <growthRates hp="0" str="0" mag="25" skl="5" spd="20" lck="5" def="0" res="10" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="124" name="Lodestar_F">
+    <text lang="English" displayName="Lodestar (F)" />
+    <text lang="Japanese" displayName="スターロード女" />
+    <text lang="Spanish" displayName="Polaris (M)" />
+    <text lang="French" displayName="Guide (F)" />
+    <text lang="German" displayName="Sternenlord (W)" />
+    <text lang="Italian" displayName="Polaris (F)" />
+    <baseStats hp="19" str="7" mag="0" skl="10" spd="9" lck="7" def="7" res="2" />
+    <maxStats hp="60" str="29" mag="26" skl="35" spd="33" lck="40" def="30" res="29" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="15" str="10" mag="0" skl="20" spd="15" lck="25" def="5" res="5" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="125" name="Vanguard_F">
+    <text lang="English" displayName="Vanguard (F)" />
+    <text lang="Japanese" displayName="ヴァンガード女" />
+    <text lang="Spanish" displayName="Adalid (M)" />
+    <text lang="French" displayName="Rédempteur (F)" />
+    <text lang="German" displayName="Vorreiter (W)" />
+    <text lang="Italian" displayName="Adalid (F)" />
+    <baseStats hp="21" str="10" mag="0" skl="8" spd="7" lck="3" def="9" res="1" />
+    <maxStats hp="65" str="36" mag="25" skl="32" spd="30" lck="30" def="32" res="27" />
+    <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="126" name="GreatLord_M">
+    <text lang="English" displayName="Great Lord (M)" />
+    <text lang="Japanese" displayName="マスターロード男" />
+    <text lang="Spanish" displayName="Gran lord (H)" />
+    <text lang="French" displayName="Grand lord (H)" />
+    <text lang="German" displayName="Erzlord (M)" />
+    <text lang="Italian" displayName="Gran lord (M)" />
+    <baseStats hp="18" str="8" mag="1" skl="8" spd="9" lck="5" def="7" res="3" />
+    <maxStats hp="60" str="30" mag="25" skl="32" spd="34" lck="35" def="29" res="31" />
+    <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
+    <growthRates hp="15" str="15" mag="0" skl="10" spd="15" lck="15" def="5" res="5" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
+  </class>
+  <class id="127" name="Grandmaster_F">
+    <text lang="English" displayName="Grandmaster (F)" />
+    <text lang="Japanese" displayName="神軍師女" />
+    <text lang="Spanish" displayName="Gran estratega (M)" />
+    <text lang="French" displayName="Maître stratège (F)" />
+    <text lang="German" displayName="Großmeister (W)" />
+    <text lang="Italian" displayName="Gran estratega (F)" />
+    <baseStats hp="18" str="7" mag="6" skl="8" spd="7" lck="2" def="6" res="8" />
+    <maxStats hp="55" str="31" mag="33" skl="33" spd="29" lck="26" def="28" res="33" />
+    <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
+    <growthRates hp="10" str="15" mag="15" skl="15" spd="5" lck="0" def="5" res="15" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <!--
   Template:
