@@ -1961,7 +1961,7 @@
     <maxStats hp="60" str="31" mag="25" skl="29" spd="29" lck="30" def="31" res="29" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="15" str="10" mag="0" skl="10" spd="10" lck="5" def="20" res="10" />
-    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+    <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="164" name="Ballistician_F">
     <text lang="English" displayName="Ballistician (F)" />
@@ -1974,7 +1974,7 @@
     <maxStats hp="65" str="40" mag="25" skl="33" spd="27" lck="32" def="33" res="26" />
     <weaponsUsed sword="false" lance="true" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="25" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
-    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="165" name="Warlock">
     <text lang="English" displayName="Witch (M)/Warlock" />
@@ -1987,7 +1987,7 @@
     <maxStats hp="50" str="25" mag="36" skl="27" spd="34" lck="28" def="26" res="29" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
     <growthRates hp="0" str="0" mag="25" skl="5" spd="20" lck="5" def="0" res="10" />
-    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="166" name="Lodestar_F">
     <text lang="English" displayName="Lodestar (F)" />
@@ -2000,7 +2000,7 @@
     <maxStats hp="60" str="29" mag="26" skl="35" spd="33" lck="40" def="30" res="29" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="15" str="10" mag="0" skl="20" spd="15" lck="25" def="5" res="5" />
-    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="167" name="Vanguard_F">
     <text lang="English" displayName="Vanguard (F)" />
@@ -2013,7 +2013,7 @@
     <maxStats hp="65" str="36" mag="25" skl="32" spd="30" lck="30" def="32" res="27" />
     <weaponsUsed sword="true" lance="false" axe="true" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="20" str="20" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
-    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <class id="168" name="GreatLord_M">
     <text lang="English" displayName="Great Lord (M)" />
@@ -2026,7 +2026,7 @@
     <maxStats hp="60" str="30" mag="25" skl="32" spd="34" lck="35" def="29" res="31" />
     <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="15" str="15" mag="0" skl="10" spd="15" lck="15" def="5" res="5" />
-    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
   </class>
   <class id="169" name="Grandmaster_F">
     <text lang="English" displayName="Grandmaster (F)" />
@@ -2039,7 +2039,7 @@
     <maxStats hp="55" str="31" mag="33" skl="33" spd="29" lck="26" def="28" res="33" />
     <weaponsUsed sword="true" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
     <growthRates hp="10" str="15" mag="15" skl="15" spd="5" lck="0" def="5" res="15" />
-    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+    <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
   <!--
   Template:
