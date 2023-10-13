@@ -514,29 +514,29 @@
   </accessory>
   <accessory id="64" name="WitchHat" type="Headwear">
     <text lang="English" displayName="Mage's Hat" />
-    <text lang="Japanese" displayName="愛の水着" />
-    <text lang="Spanish" displayName="Toga del amor" />
-    <text lang="French" displayName="Toge d'amour" />
-    <text lang="German" displayName="Liebestoga" />
-    <text lang="Italian" displayName="Toga dell'amore" />
+    <text lang="Japanese" displayName="Mage's Hat" />
+    <text lang="Spanish" displayName="Mage's Hat" />
+    <text lang="French" displayName="Mage's Hat" />
+    <text lang="German" displayName="Mage's Hat" />
+    <text lang="Italian" displayName="Mage's Hat" />
   </accessory>
-  <accessory id="104" name="TintedGlasses1" type="Facewear">
-    <text lang="English" displayName="Tinted Glasses (DLC)" />
+  <accessory id="65" name="ClassHeadwear" type="Headwear">
+    <text lang="English" displayName="Class Headwear" />
+    <text lang="Japanese" displayName="Class Headwear" />
+    <text lang="Spanish" displayName="Class Headwear" />
+    <text lang="French" displayName="Class Headwear" />
+    <text lang="German" displayName="Class Headwear" />
+    <text lang="Italian" displayName="Class Headwear" />
+  </accessory>
+  <accessory id="66" name="Sunglasses" type="Facewear">
+    <text lang="English" displayName="Sunglasses" />
     <text lang="Japanese" displayName="遮光メガネ" />
     <text lang="Spanish" displayName="Gafas de sol" />
     <text lang="French" displayName="Lun. de soleil" />
     <text lang="German" displayName="Sonnenbrille" />
     <text lang="Italian" displayName="Occhiali da sole" />
   </accessory>
-  <accessory id="105" name="TintedGlasses2" type="Facewear">
-    <text lang="English" displayName="Tinted Glasses (DLC)" />
-    <text lang="Japanese" displayName="遮光メガネ" />
-    <text lang="Spanish" displayName="Gafas de sol" />
-    <text lang="French" displayName="Lun. de soleil" />
-    <text lang="German" displayName="Sonnenbrille" />
-    <text lang="Italian" displayName="Occhiali da sole" />
-  </accessory>
-  <accessory id="109" name="RimmedGlasses1" type="Facewear">
+  <accessory id="67" name="RimmedGlasses" type="Facewear">
     <text lang="English" displayName="Rimmed Glasses" />
     <text lang="Japanese" displayName="黒縁メガネ" />
     <text lang="Spanish" displayName="Gafas oscuras" />
@@ -544,29 +544,21 @@
     <text lang="German" displayName="Hornbrille" />
     <text lang="Italian" displayName="Occhiali" />
   </accessory>
-  <accessory id="110" name="RimmedGlasses2" type="Facewear">
-    <text lang="English" displayName="Rimmed Glasses" />
-    <text lang="Japanese" displayName="黒縁メガネ" />
-    <text lang="Spanish" displayName="Gafas oscuras" />
-    <text lang="French" displayName="Lunettes noires" />
-    <text lang="German" displayName="Hornbrille" />
-    <text lang="Italian" displayName="Occhiali" />
-  </accessory>
-  <accessory id="112" name="Face1" type="Facewear">
+  <accessory id="68" name="FoxMask" type="Facewear">
     <text lang="English" displayName="Fox Mask" />
     <text lang="Japanese" displayName="キツネのお面" />
-    <text lang="Spanish" displayName="-" />
-    <text lang="French" displayName="-" />
-    <text lang="German" displayName="-" />
-    <text lang="Italian" displayName="-" />
+    <text lang="Spanish" displayName="Fox Mask" />
+    <text lang="French" displayName="Fox Mask" />
+    <text lang="German" displayName="Fox Mask" />
+    <text lang="Italian" displayName="Fox Mask" />
   </accessory>
-  <accessory id="114" name="Face2" type="Facewear">
+  <accessory id="69" name="PumpkinMask" type="Facewear">
     <text lang="English" displayName="Pumpkin Mask" />
     <text lang="Japanese" displayName="パンプキンヘッド" />
-    <text lang="Spanish" displayName="-" />
-    <text lang="French" displayName="-" />
-    <text lang="German" displayName="-" />
-    <text lang="Italian" displayName="-" />
+    <text lang="Spanish" displayName="Pumpkin Mask" />
+    <text lang="French" displayName="Pumpkin Mask" />
+    <text lang="German" displayName="Pumpkin Mask" />
+    <text lang="Italian" displayName="Pumpkin Mask" />
   </accessory>
   <!--
   Template:
