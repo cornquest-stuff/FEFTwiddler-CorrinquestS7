@@ -1601,11 +1601,11 @@
   </class>
   <class id="123" name="Witch">
     <text lang="English" displayName="Witch (F)" />
-    <text lang="Japanese" displayName="魔女女" />
-    <text lang="Spanish" displayName="Bruja (M)" />
-    <text lang="French" displayName="Sorcière (F)" />
-    <text lang="German" displayName="Hexe (W)" />
-    <text lang="Italian" displayName="Bruja (F)" />
+    <text lang="Japanese" displayName="魔女" />
+    <text lang="Spanish" displayName="Bruja" />
+    <text lang="French" displayName="Sorcière" />
+    <text lang="German" displayName="Hexe" />
+    <text lang="Italian" displayName="Bruja" />
     <baseStats hp="17" str="0" mag="10" skl="5" spd="9" lck="3" def="4" res="5" />
     <maxStats hp="50" str="25" mag="36" skl="27" spd="34" lck="28" def="26" res="29" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
@@ -1976,13 +1976,13 @@
     <growthRates hp="20" str="25" mag="0" skl="15" spd="5" lck="10" def="15" res="0" />
     <categories isPromoted="true" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
-  <class id="165" name="Warlock">
-    <text lang="English" displayName="Witch (M)/Warlock" />
-    <text lang="Japanese" displayName="魔女男/ウォーロック" />
-    <text lang="Spanish" displayName="Bruja (H)/Animista" />
-    <text lang="French" displayName="Sorcière (H)/Enchanteur" />
-    <text lang="German" displayName="Hexe (M)/Hexer" />
-    <text lang="Italian" displayName="Bruja (M)/Warlock" />
+  <class id="165" name="Witch_M">
+    <text lang="English" displayName="Witch (M)" />
+    <text lang="Japanese" displayName="妖術師" />
+    <text lang="Spanish" displayName="Brujo" />
+    <text lang="French" displayName="Sorcièr" />
+    <text lang="German" displayName="Hexer" />
+    <text lang="Italian" displayName="Warlock" />
     <baseStats hp="17" str="0" mag="10" skl="5" spd="9" lck="3" def="4" res="5" />
     <maxStats hp="50" str="25" mag="36" skl="27" spd="34" lck="28" def="26" res="29" />
     <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="false" tome="true" staff="false" stone="false" />
