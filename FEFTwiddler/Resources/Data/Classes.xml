@@ -98,7 +98,7 @@
     <text lang="French" displayName="Paladin (H)" />
     <text lang="German" displayName="Rittmeister (M)" />
     <text lang="Italian" displayName="Paladín (M)" />
-    <baseStats hp="19" str="8" mag="1" skl="8" spd="7" lck="4" def="8" res="6" />
+    <baseStats hp="19" str="8" mag="1" skl="8" spd="7" lck="4" def="7" res="7" />
     <maxStats hp="60" str="31" mag="26" skl="32" spd="30" lck="32" def="32" res="32" />
     <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="15" str="15" mag="0" skl="15" spd="10" lck="15" def="10" res="10" />
@@ -111,7 +111,7 @@
     <text lang="French" displayName="Paladin (F)" />
     <text lang="German" displayName="Rittmeister (W)" />
     <text lang="Italian" displayName="Paladín (F)" />
-    <baseStats hp="19" str="8" mag="1" skl="8" spd="7" lck="4" def="8" res="6" />
+    <baseStats hp="19" str="8" mag="1" skl="8" spd="7" lck="4" def="7" res="7" />
     <maxStats hp="60" str="31" mag="26" skl="32" spd="30" lck="32" def="32" res="32" />
     <weaponsUsed sword="true" lance="true" axe="false" shuriken="false" bow="false" tome="false" staff="false" stone="false" />
     <growthRates hp="15" str="15" mag="0" skl="15" spd="10" lck="15" def="10" res="10" />
