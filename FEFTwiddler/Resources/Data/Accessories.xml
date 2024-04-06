@@ -440,15 +440,7 @@
     <text lang="German" displayName="Arenaschild" />
     <text lang="Italian" displayName="Scudo arena" />
   </accessory>
-  <accessory id="55" name="BoldSwimsuit" type="Underwear">
-    <text lang="English" displayName="Bold Swimsuit" />
-    <text lang="Japanese" displayName="色っぽい水着" />
-    <text lang="Spanish" displayName="Bañador audaz" />
-    <text lang="French" displayName="Maillot coquet" />
-    <text lang="German" displayName="Frecher Bikini" />
-    <text lang="Italian" displayName="Costume ardito" />
-  </accessory>
-  <accessory id="56" name="BathTowel" type="Underwear">
+  <accessory id="55" name="BathTowel" type="Underwear">
     <text lang="English" displayName="Bath Towel" />
     <text lang="Japanese" displayName="バスタオル" />
     <text lang="Spanish" displayName="Toalla de baño" />
@@ -456,29 +448,37 @@
     <text lang="German" displayName="Badetuch" />
     <text lang="Italian" displayName="Telo da bagno" />
   </accessory>
-  <accessory id="57" name="TropicalSuit" type="Underwear">
-    <text lang="English" displayName="Tropical Suit" />
-    <text lang="Japanese" displayName="草花の水着" />
-    <text lang="Spanish" displayName="Bañador natura" />
-    <text lang="French" displayName="Maillot tropical" />
-    <text lang="German" displayName="Tropenbikini" />
-    <text lang="Italian" displayName="Costume foglie" />
+  <accessory id="56" name="WolfTail" type="Armwear">
+    <text lang="English" displayName="Wolf Tail" />
+    <text lang="Japanese" displayName="Wolf Tail" />
+    <text lang="Spanish" displayName="Wolf Tail" />
+    <text lang="French" displayName="Wolf Tail" />
+    <text lang="German" displayName="Wolf Tail" />
+    <text lang="Italian" displayName="Wolf Tail" />
   </accessory>
-  <accessory id="58" name="DarkRobe" type="Underwear">
-    <text lang="English" displayName="Dark Robe" />
-    <text lang="Japanese" displayName="闇の衣" />
-    <text lang="Spanish" displayName="Bata oscura" />
-    <text lang="French" displayName="Maillot sombre" />
-    <text lang="German" displayName="Dunkle Robe" />
-    <text lang="Italian" displayName="Manto oscuro" />
+  <accessory id="57" name="PupTail" type="Armwear">
+    <text lang="English" displayName="Pup Tail" />
+    <text lang="Japanese" displayName="Pup Tail" />
+    <text lang="Spanish" displayName="Pup Tail" />
+    <text lang="French" displayName="Pup Tail" />
+    <text lang="German" displayName="Pup Tail" />
+    <text lang="Italian" displayName="Pup Tail" />
   </accessory>
-  <accessory id="59" name="SeashellSuit" type="Underwear">
-    <text lang="English" displayName="Seashell Suit" />
-    <text lang="Japanese" displayName="貝殻の水着" />
-    <text lang="Spanish" displayName="Bañador de mar" />
-    <text lang="French" displayName="Mail. coquillage" />
-    <text lang="German" displayName="Muschelbikini" />
-    <text lang="Italian" displayName="Costume mare" />
+  <accessory id="58" name="KitTail" type="Armwear">
+    <text lang="English" displayName="Kit Tail" />
+    <text lang="Japanese" displayName="Kit Tail" />
+    <text lang="Spanish" displayName="Kit Tail" />
+    <text lang="French" displayName="Kit Tail" />
+    <text lang="German" displayName="Kit Tail" />
+    <text lang="Italian" displayName="Kit Tail" />
+  </accessory>
+  <accessory id="59" name="DreadScabbard" type="Armwear">
+	<text lang="English" displayName="Dread Scabbard" />
+	<text lang="Japanese" displayName="Dread Scabbard" />
+	<text lang="Spanish" displayName="Dread Scabbard" />
+	<text lang="French" displayName="Dread Scabbard" />
+	<text lang="German" displayName="Dread Scabbard" />
+	<text lang="Italian" displayName="Dread Scabbard" />
   </accessory>
   <accessory id="60" name="DarkCrown" type="Headwear">
     <text lang="English" displayName="Dark Crown" />
@@ -513,12 +513,12 @@
     <text lang="Italian" displayName="Bracciale cuore" />
   </accessory>
   <accessory id="64" name="WitchHat" type="Headwear">
-    <text lang="English" displayName="Mage's Hat" />
-    <text lang="Japanese" displayName="Mage's Hat" />
-    <text lang="Spanish" displayName="Mage's Hat" />
-    <text lang="French" displayName="Mage's Hat" />
-    <text lang="German" displayName="Mage's Hat" />
-    <text lang="Italian" displayName="Mage's Hat" />
+    <text lang="English" displayName="Witch's Hat" />
+    <text lang="Japanese" displayName="Witch's Hat" />
+    <text lang="Spanish" displayName="Witch's Hat" />
+    <text lang="French" displayName="Witch's Hat" />
+    <text lang="German" displayName="Witch's Hat" />
+    <text lang="Italian" displayName="Witch's Hat" />
   </accessory>
   <accessory id="65" name="ClassHeadwear" type="Headwear">
     <text lang="English" displayName="Class Headwear" />
@@ -559,6 +559,118 @@
     <text lang="French" displayName="Pumpkin Mask" />
     <text lang="German" displayName="Pumpkin Mask" />
     <text lang="Italian" displayName="Pumpkin Mask" />
+  </accessory>
+  <accessory id="70" name="CavHelm" type="Facewear">
+    <text lang="English" displayName="Rider's Helmet" />
+    <text lang="Japanese" displayName="Rider's Helmet" />
+    <text lang="Spanish" displayName="Rider's Helmet" />
+    <text lang="French" displayName="Rider's Helmet" />
+    <text lang="German" displayName="Rider's Helmet" />
+    <text lang="Italian" displayName="Rider's Helmet" />
+  </accessory>
+  <accessory id="71" name="GKHelm" type="Facewear">
+    <text lang="English" displayName="Cataphract Helm" />
+    <text lang="Japanese" displayName="Cataphract Helm" />
+    <text lang="Spanish" displayName="Cataphract Helm" />
+    <text lang="French" displayName="Cataphract Helm" />
+    <text lang="German" displayName="Cataphract Helm" />
+    <text lang="Italian" displayName="Cataphract Helm" />
+  </accessory>
+  <accessory id="72" name="BerserkHelm" type="Facewear">
+    <text lang="English" displayName="Berserk Helm" />
+    <text lang="Japanese" displayName="Berserk Helm" />
+    <text lang="Spanish" displayName="Berserk Helm" />
+    <text lang="French" displayName="Berserk Helm" />
+    <text lang="German" displayName="Berserk Helm" />
+    <text lang="Italian" displayName="Berserk Helm" />
+  </accessory>
+  <accessory id="73" name="RoguishHat" type="Headwear">
+    <text lang="English" displayName="Roguish Hat" />
+    <text lang="Japanese" displayName="Roguish Hat" />
+    <text lang="Spanish" displayName="Roguish Hat" />
+    <text lang="French" displayName="Roguish Hat" />
+    <text lang="German" displayName="Roguish Hat" />
+    <text lang="Italian" displayName="Roguish Hat" />
+  </accessory>
+  <accessory id="74" name="OgreMask" type="Facewear">
+    <text lang="English" displayName="Ogre Mask" />
+    <text lang="Japanese" displayName="Ogre Mask" />
+    <text lang="Spanish" displayName="Ogre Mask" />
+    <text lang="French" displayName="Ogre Mask" />
+    <text lang="German" displayName="Ogre Mask" />
+    <text lang="Italian" displayName="Ogre Mask" />
+  </accessory>
+  <accessory id="75" name="SmithyGuard" type="Facewear">
+    <text lang="English" displayName="Smither's Guard" />
+    <text lang="Japanese" displayName="Smither's Guard" />
+    <text lang="Spanish" displayName="Smither's Guard" />
+    <text lang="French" displayName="Smither's Guard" />
+    <text lang="German" displayName="Smither's Guard" />
+    <text lang="Italian" displayName="Smither's Guard" />
+  </accessory>
+  <accessory id="76" name="SkyHood" type="Headwear">
+    <text lang="English" displayName="Sky Hood" />
+    <text lang="Japanese" displayName="Sky Hood" />
+    <text lang="Spanish" displayName="Sky Hood" />
+    <text lang="French" displayName="Sky Hood" />
+    <text lang="German" displayName="Sky Hood" />
+    <text lang="Italian" displayName="Sky Hood" />
+  </accessory>
+  <accessory id="77" name="SniperHat" type="Headwear">
+    <text lang="English" displayName="Bowman's Hat" />
+    <text lang="Japanese" displayName="Bowman's Hat" />
+    <text lang="Spanish" displayName="Bowman's Hat" />
+    <text lang="French" displayName="Bowman's Hat" />
+    <text lang="German" displayName="Bowman's Hat" />
+    <text lang="Italian" displayName="Bowman's Hat" />
+  </accessory>
+  <accessory id="78" name="WyvernHelm" type="Facewear">
+    <text lang="English" displayName="Wyvern Helm" />
+    <text lang="Japanese" displayName="Wyvern Helm" />
+    <text lang="Spanish" displayName="Wyvern Helm" />
+    <text lang="French" displayName="Wyvern Helm" />
+    <text lang="German" displayName="Wyvern Helm" />
+    <text lang="Italian" displayName="Wyvern Helm" />
+  </accessory>
+  <accessory id="79" name="MaligHelm" type="Facewear">
+    <text lang="English" displayName="Malig Helmet" />
+    <text lang="Japanese" displayName="Malig Helmet" />
+    <text lang="Spanish" displayName="Malig Helmet" />
+    <text lang="French" displayName="Malig Helmet" />
+    <text lang="German" displayName="Malig Helmet" />
+    <text lang="Italian" displayName="Malig Helmet" />
+  </accessory>
+  <accessory id="80" name="StrawHat" type="Headwear">
+    <text lang="English" displayName="Straw Hat" />
+    <text lang="Japanese" displayName="Straw Hat" />
+    <text lang="Spanish" displayName="Straw Hat" />
+    <text lang="French" displayName="Straw Hat" />
+    <text lang="German" displayName="Straw Hat" />
+    <text lang="Italian" displayName="Straw Hat" />
+  </accessory>
+  <accessory id="81" name="DarkDiadem" type="Headwear">
+    <text lang="English" displayName="Dark Diadem" />
+    <text lang="Japanese" displayName="Dark Diadem" />
+    <text lang="Spanish" displayName="Dark Diadem" />
+    <text lang="French" displayName="Dark Diadem" />
+    <text lang="German" displayName="Dark Diadem" />
+    <text lang="Italian" displayName="Dark Diadem" />
+  </accessory>
+  <accessory id="82" name="SkullHelm" type="Facewear">
+    <text lang="English" displayName="Dark Skull" />
+    <text lang="Japanese" displayName="Dark Skull" />
+    <text lang="Spanish" displayName="Dark Skull" />
+    <text lang="French" displayName="Dark Skull" />
+    <text lang="German" displayName="Dark Skull" />
+    <text lang="Italian" displayName="Dark Skull" />
+  </accessory>
+  <accessory id="83" name="Thomas" type="Armwear">
+    <text lang="English" displayName="Tank Engine" />
+    <text lang="Japanese" displayName="Tank Engine" />
+    <text lang="Spanish" displayName="Tank Engine" />
+    <text lang="French" displayName="Tank Engine" />
+    <text lang="German" displayName="Tank Engine" />
+    <text lang="Italian" displayName="Tank Engine" />
   </accessory>
   <!--
   Template:

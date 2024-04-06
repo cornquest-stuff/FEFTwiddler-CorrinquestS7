@@ -1370,16 +1370,6 @@
     <learnedSkillInfo byteOffset="17" bitMask="1" />
     <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="false" amiiboClass="true" enemyAndNpc="false" />
   </skill>
-  <skill id="137" name="RallySpectrum" personal="false" unlearnable="false">
-    <text lang="English" displayName="Rally Spectrum" />
-    <text lang="Japanese" displayName="【七色の叫び】" />
-    <text lang="Spanish" displayName="Potenciar: Todo" />
-    <text lang="French" displayName="Ralliement étendu" />
-    <text lang="German" displayName="Werte sammeln" />
-    <text lang="Italian" displayName="Grido di battaglia" />
-    <learnedSkillInfo byteOffset="17" bitMask="2" />
-    <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="false" amiiboClass="true" enemyAndNpc="false" />
-  </skill>
   <skill id="138" name="Paragon" personal="false" unlearnable="false">
     <text lang="English" displayName="Paragon" />
     <text lang="Japanese" displayName="【エリート】" />
@@ -1490,45 +1480,15 @@
     <learnedSkillInfo byteOffset="18" bitMask="16" />
     <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="true" amiiboClass="false" enemyAndNpc="false" />
   </skill>
-  <skill id="149" name="Survey" personal="false" unlearnable="false">
-    <text lang="English" displayName="Survey" />
-    <text lang="Japanese" displayName="【測量術】" />
-    <text lang="Spanish" displayName="Otear" />
-    <text lang="French" displayName="Analyse" />
-    <text lang="German" displayName="Überblick" />
-    <text lang="Italian" displayName="Zoom" />
-    <learnedSkillInfo byteOffset="18" bitMask="32" />
-    <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="true" amiiboClass="false" enemyAndNpc="false" />
-  </skill>
-  <skill id="150" name="OpportunityShot" personal="false" unlearnable="false">
-    <text lang="English" displayName="Opportunity Shot" />
-    <text lang="Japanese" displayName="【自動砲台】" />
-    <text lang="Spanish" displayName="A tiro" />
-    <text lang="French" displayName="Fenêtre de tir" />
-    <text lang="German" displayName="Gute Gelegenheit" />
-    <text lang="Italian" displayName="Autocannone" />
-    <learnedSkillInfo byteOffset="18" bitMask="64" />
-    <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="true" amiiboClass="false" enemyAndNpc="false" />
-  </skill>
   <skill id="151" name="RifledBarrel" personal="false" unlearnable="false">
-    <text lang="English" displayName="Rifled Barrel" />
-    <text lang="Japanese" displayName="【砲身改造】" />
-    <text lang="Spanish" displayName="Cañón trucado" />
-    <text lang="French" displayName="Barillet" />
-    <text lang="German" displayName="Kanonade" />
-    <text lang="Italian" displayName="Arma truccata" />
+    <text lang="English" displayName="Fortify Spectrum" />
+    <text lang="Japanese" displayName="Fortify Spectrum" />
+    <text lang="Spanish" displayName="Fortify Spectrum" />
+    <text lang="French" displayName="Fortify Spectrum" />
+    <text lang="German" displayName="Fortify Spectrum" />
+    <text lang="Italian" displayName="Fortify Spectrum" />
     <learnedSkillInfo byteOffset="18" bitMask="128" />
-    <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="true" amiiboClass="false" enemyAndNpc="false" />
-  </skill>
-  <skill id="152" name="Surefooted" personal="false" unlearnable="false">
-    <text lang="English" displayName="Surefooted" />
-    <text lang="Japanese" displayName="【悪路踏破】" />
-    <text lang="Spanish" displayName="Determinación" />
-    <text lang="French" displayName="Agilité" />
-    <text lang="German" displayName="Leichtfüßig" />
-    <text lang="Italian" displayName="Piè sospinto" />
-    <learnedSkillInfo byteOffset="19" bitMask="1" />
-    <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="true" amiiboClass="false" enemyAndNpc="false" />
+    <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="false" amiiboClass="true" enemyAndNpc="false" />
   </skill>
   <skill id="153" name="WitchsBrew" personal="false" unlearnable="false">
     <text lang="English" displayName="Witch's Brew" />

@@ -3547,6 +3547,15 @@
     <text lang="Italian" displayName="Teletrasporto" />
     <categories npcOnly="false" personal="false" />
   </item>
+  <item id="399" name="Beastshard" type="Stone" subType="Beaststone" maxUses="0" rank="3">
+	<text lang="English" displayName="Beastshard" />
+	<text lang="Japanese" displayName="Beastshard" />
+	<text lang="Spanish" displayName="Beastshard" />
+	<text lang="French" displayName="Beastshard" />
+	<text lang="German" displayName="Beastshard" />
+	<text lang="Italian" displayName="Beastshard" />
+	<categories npcOnly="false" personal="false" />
+  </item>
   <!-- template: 
   <item id="0" name="InternalName" type="ItemType" subType="ItemSubType" maxUses="0" rank="0">
     <text lang="English" displayName="DisplayName" />

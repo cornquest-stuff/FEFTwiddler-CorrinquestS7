@@ -1139,4 +1139,28 @@
 		<text lang="German" displayName1="Heldenkampf" displayName2="Großmeister Daraen" />
 		<text lang="Italian" displayName1="Duello eroico" displayName2="Daraen, il Gran Maestro" />
 	</chapter>
+	<chapter id="122" name="HeroBattle_Noosecore" type="Paralogue">
+		<text lang="English" displayName1="Hero Battle" displayName2="NC" />
+		<text lang="Japanese" displayName1="英雄戦" displayName2="NC" />
+		<text lang="Spanish" displayName1="Contienda" displayName2="NC" />
+		<text lang="French" displayName1="Les héros" displayName2="NC" />
+		<text lang="German" displayName1="Heldenkampf" displayName2="NC" />
+		<text lang="Italian" displayName1="Duello eroico" displayName2="NC" />
+	</chapter>
+	<chapter id="123" name="HeroBattle_NoosecoreWR" type="Paralogue">
+		<text lang="English" displayName1="Hero Battle" displayName2="NC WR" />
+		<text lang="Japanese" displayName1="英雄戦" displayName2="NC WR" />
+		<text lang="Spanish" displayName1="Contienda" displayName2="NC WR" />
+		<text lang="French" displayName1="Les héros" displayName2="NC WR" />
+		<text lang="German" displayName1="Heldenkampf" displayName2="NC WR" />
+		<text lang="Italian" displayName1="Duello eroico" displayName2="NC WR" />
+	</chapter>
+	<chapter id="124" name="HeroBattle_Corrin" type="Paralogue">
+		<text lang="English" displayName1="Hero Battle" displayName2="The Crux of Fate" />
+		<text lang="Japanese" displayName1="英雄戦" displayName2="未来を選びし者" />
+		<text lang="Spanish" displayName1="Contienda" displayName2="El Quid del Destino" />
+		<text lang="French" displayName1="Les héros" displayName2="La Main du Destin" />
+		<text lang="German" displayName1="Heldenkampf" displayName2="Die Weltveränderin" />
+		<text lang="Italian" displayName1="Duello eroico" displayName2="La Mano del Fato" />
+	</chapter>
 </root>
