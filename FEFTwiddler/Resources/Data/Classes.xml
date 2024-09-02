@@ -2093,6 +2093,32 @@
     <growthRates hp="0" str="5" mag="10" skl="20" spd="10" lck="15" def="0" res="15" />
     <categories isPromoted="false" isSpecial="false" isFemale="true" isNpcOnly="false" />
   </class>
+  <class id="172" name="Apothecary_Cyan">
+    <text lang="English" displayName="Apothecary (Cyan)" />
+    <text lang="Japanese" displayName="薬商人Cyan" />
+    <text lang="Spanish" displayName="Boticario (Cyan)" />
+    <text lang="French" displayName="Apothicaire (Cyan)" />
+    <text lang="German" displayName="Kräuterkundiger (Cyan)" />
+    <text lang="Italian" displayName="Boticario (Cyan)" />
+    <baseStats hp="18" str="6" mag="0" skl="4" spd="4" lck="2" def="6" res="2" />
+    <maxStats hp="45" str="24" mag="15" skl="19" spd="19" lck="21" def="23" res="20" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="false" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="20" str="20" mag="0" skl="10" spd="10" lck="5" def="10" res="5" />
+    <categories isPromoted="false" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
+  <class id="173" name="Mechanist_Cyan">
+    <text lang="English" displayName="Mechanist (Cyan)" />
+    <text lang="Japanese" displayName="絡繰師Cyan" />
+    <text lang="Spanish" displayName="Titiritero (Cyan)" />
+    <text lang="French" displayName="Machiniste (Cyan)" />
+    <text lang="German" displayName="Tüftler (Cyan)" />
+    <text lang="Italian" displayName="Titiritero (Cyan)" />
+    <baseStats hp="18" str="7" mag="0" skl="9" spd="7" lck="2" def="6" res="6" />
+    <maxStats hp="60" str="30" mag="25" skl="33" spd="30" lck="30" def="31" res="31" />
+    <weaponsUsed sword="false" lance="false" axe="false" shuriken="true" bow="true" tome="false" staff="false" stone="false" />
+    <growthRates hp="10" str="10" mag="0" skl="15" spd="10" lck="5" def="10" res="15" />
+    <categories isPromoted="true" isSpecial="false" isFemale="false" isNpcOnly="false" />
+  </class>
   <!--
   Template:
   <class id="0" name="InternalName">
