@@ -664,13 +664,53 @@
     <text lang="German" displayName="Dark Skull" />
     <text lang="Italian" displayName="Dark Skull" />
   </accessory>
-  <accessory id="83" name="Thomas" type="Armwear">
+  <accessory id="83" name="Thomas" type="Underwear">
     <text lang="English" displayName="Tank Engine" />
     <text lang="Japanese" displayName="Tank Engine" />
     <text lang="Spanish" displayName="Tank Engine" />
     <text lang="French" displayName="Tank Engine" />
     <text lang="German" displayName="Tank Engine" />
     <text lang="Italian" displayName="Tank Engine" />
+  </accessory>
+  <accessory id="84" name="Outfit" type="Underwear">
+    <text lang="English" displayName="Custom Outfit" />
+    <text lang="Japanese" displayName="Custom Outfit" />
+    <text lang="Spanish" displayName="Custom Outfit" />
+    <text lang="French" displayName="Custom Outfit" />
+    <text lang="German" displayName="Custom Outfit" />
+    <text lang="Italian" displayName="Custom Outfit" />
+  </accessory>
+  <accessory id="85" name="AltBeast" type="Underwear">
+    <text lang="English" displayName="Alt Beast Form" />
+    <text lang="Japanese" displayName="Alt Beast Form" />
+    <text lang="Spanish" displayName="Alt Beast Form" />
+    <text lang="French" displayName="Alt Beast Form" />
+    <text lang="German" displayName="Alt Beast Form" />
+    <text lang="Italian" displayName="Alt Beast Form" />
+  </accessory>
+  <accessory id="86" name="PartyHat" type="Headwear">
+    <text lang="English" displayName="Party Hat" />
+    <text lang="Japanese" displayName="Party Hat" />
+    <text lang="Spanish" displayName="Party Hat" />
+    <text lang="French" displayName="Party Hat" />
+    <text lang="German" displayName="Party Hat" />
+    <text lang="Italian" displayName="Party Hat" />
+  </accessory>
+  <accessory id="87" name="WolfssegnerTail" type="Armwear">
+    <text lang="English" displayName="Ebon Wolf Tail" />
+    <text lang="Japanese" displayName="Ebon Wolf Tail" />
+    <text lang="Spanish" displayName="Ebon Wolf Tail" />
+    <text lang="French" displayName="Ebon Wolf Tail" />
+    <text lang="German" displayName="Ebon Wolf Tail" />
+    <text lang="Italian" displayName="Ebon Wolf Tail" />
+  </accessory>
+  <accessory id="88" name="NineTailsTail" type="Armwear">
+    <text lang="English" displayName="Ivory Fox Tail" />
+    <text lang="Japanese" displayName="Ivory Fox Tail" />
+    <text lang="Spanish" displayName="Ivory Fox Tail" />
+    <text lang="French" displayName="Ivory Fox Tail" />
+    <text lang="German" displayName="Ivory Fox Tail" />
+    <text lang="Italian" displayName="Ivory Fox Tail" />
   </accessory>
   <!--
   Template:

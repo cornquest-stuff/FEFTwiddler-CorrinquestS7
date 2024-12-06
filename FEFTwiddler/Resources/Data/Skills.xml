@@ -1490,6 +1490,16 @@
     <learnedSkillInfo byteOffset="18" bitMask="128" />
     <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="false" amiiboClass="true" enemyAndNpc="false" />
   </skill>
+  <skill id="152" name="Surefooted" personal="false" unlearnable="false">
+    <text lang="English" displayName="Resolve" />
+    <text lang="Japanese" displayName="Resolve" />
+    <text lang="Spanish" displayName="Resolve" />
+    <text lang="French" displayName="Resolve" />
+    <text lang="German" displayName="Resolve" />
+    <text lang="Italian" displayName="Resolve" />
+    <learnedSkillInfo byteOffset="19" bitMask="1" />
+    <categories normalClass="false" corrinOnly="false" azuraOnly="false" kitsuneOnly="false" wolfskinOnly="false" villagerOnly="false" pathBonusClass="false" dlcClass="false" amiiboClass="true" enemyAndNpc="false" />
+  </skill>
   <skill id="153" name="WitchsBrew" personal="false" unlearnable="false">
     <text lang="English" displayName="Witch's Brew" />
     <text lang="Japanese" displayName="【魔女の大釜】" />
