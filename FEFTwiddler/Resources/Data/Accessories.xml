@@ -712,6 +712,606 @@
     <text lang="German" displayName="Ivory Fox Tail" />
     <text lang="Italian" displayName="Ivory Fox Tail" />
   </accessory>
+  <accessory id="89" name="Crossdress" type="Underwear">
+    <text lang="English" displayName="Crossdress" />
+    <text lang="Japanese" displayName="Crossdress" />
+    <text lang="Spanish" displayName="Crossdress" />
+    <text lang="French" displayName="Crossdress" />
+    <text lang="German" displayName="Crossdress" />
+    <text lang="Italian" displayName="Crossdress" />
+  </accessory>
+	<accessory id="90" name="JakobVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Jakob" />
+		<text lang="Japanese" displayName="Voice - Jakob" />
+		<text lang="Spanish" displayName="Voice - Jakob" />
+		<text lang="French" displayName="Voice - Jakob" />
+		<text lang="German" displayName="Voice - Jakob" />
+		<text lang="Italian" displayName="Voice - Jakob" />
+	</accessory>
+	<accessory id="91" name="SilasVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Silas" />
+		<text lang="Japanese" displayName="Voice - Silas" />
+		<text lang="Spanish" displayName="Voice - Silas" />
+		<text lang="French" displayName="Voice - Silas" />
+		<text lang="German" displayName="Voice - Silas" />
+		<text lang="Italian" displayName="Voice - Silas" />
+	</accessory>
+	<accessory id="92" name="KazeVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Kaze" />
+		<text lang="Japanese" displayName="Voice - Kaze" />
+		<text lang="Spanish" displayName="Voice - Kaze" />
+		<text lang="French" displayName="Voice - Kaze" />
+		<text lang="German" displayName="Voice - Kaze" />
+		<text lang="Italian" displayName="Voice - Kaze" />
+	</accessory>
+	<accessory id="93" name="RyomaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Ryoma" />
+		<text lang="Japanese" displayName="Voice - Ryoma" />
+		<text lang="Spanish" displayName="Voice - Ryoma" />
+		<text lang="French" displayName="Voice - Ryoma" />
+		<text lang="German" displayName="Voice - Ryoma" />
+		<text lang="Italian" displayName="Voice - Ryoma" />
+	</accessory>
+	<accessory id="94" name="TakumiVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Takumi" />
+		<text lang="Japanese" displayName="Voice - Takumi" />
+		<text lang="Spanish" displayName="Voice - Takumi" />
+		<text lang="French" displayName="Voice - Takumi" />
+		<text lang="German" displayName="Voice - Takumi" />
+		<text lang="Italian" displayName="Voice - Takumi" />
+	</accessory>
+	<accessory id="95" name="SaizoVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Saizo" />
+		<text lang="Japanese" displayName="Voice - Saizo" />
+		<text lang="Spanish" displayName="Voice - Saizo" />
+		<text lang="French" displayName="Voice - Saizo" />
+		<text lang="German" displayName="Voice - Saizo" />
+		<text lang="Italian" displayName="Voice - Saizo" />
+	</accessory>
+	<accessory id="96" name="KadenVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Kaden" />
+		<text lang="Japanese" displayName="Voice - Kaden" />
+		<text lang="Spanish" displayName="Voice - Kaden" />
+		<text lang="French" displayName="Voice - Kaden" />
+		<text lang="German" displayName="Voice - Kaden" />
+		<text lang="Italian" displayName="Voice - Kaden" />
+	</accessory>
+	<accessory id="97" name="HinataVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Hinata" />
+		<text lang="Japanese" displayName="Voice - Hinata" />
+		<text lang="Spanish" displayName="Voice - Hinata" />
+		<text lang="French" displayName="Voice - Hinata" />
+		<text lang="German" displayName="Voice - Hinata" />
+		<text lang="Italian" displayName="Voice - Hinata" />
+	</accessory>
+	<accessory id="98" name="AzamaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Azama" />
+		<text lang="Japanese" displayName="Voice - Azama" />
+		<text lang="Spanish" displayName="Voice - Azama" />
+		<text lang="French" displayName="Voice - Azama" />
+		<text lang="German" displayName="Voice - Azama" />
+		<text lang="Italian" displayName="Voice - Azama" />
+	</accessory>
+	<accessory id="99" name="SubakiVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Subaki" />
+		<text lang="Japanese" displayName="Voice - Subaki" />
+		<text lang="Spanish" displayName="Voice - Subaki" />
+		<text lang="French" displayName="Voice - Subaki" />
+		<text lang="German" displayName="Voice - Subaki" />
+		<text lang="Italian" displayName="Voice - Subaki" />
+	</accessory>
+	<accessory id="100" name="HayatoVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Hayato" />
+		<text lang="Japanese" displayName="Voice - Hayato" />
+		<text lang="Spanish" displayName="Voice - Hayato" />
+		<text lang="French" displayName="Voice - Hayato" />
+		<text lang="German" displayName="Voice - Hayato" />
+		<text lang="Italian" displayName="Voice - Hayato" />
+	</accessory>
+	<accessory id="101" name="XanderVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Xander" />
+		<text lang="Japanese" displayName="Voice - Xander" />
+		<text lang="Spanish" displayName="Voice - Xander" />
+		<text lang="French" displayName="Voice - Xander" />
+		<text lang="German" displayName="Voice - Xander" />
+		<text lang="Italian" displayName="Voice - Xander" />
+	</accessory>
+	<accessory id="102" name="LeoVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Leo" />
+		<text lang="Japanese" displayName="Voice - Leo" />
+		<text lang="Spanish" displayName="Voice - Leo" />
+		<text lang="French" displayName="Voice - Leo" />
+		<text lang="German" displayName="Voice - Leo" />
+		<text lang="Italian" displayName="Voice - Leo" />
+	</accessory>
+	<accessory id="103" name="BennyVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Benny" />
+		<text lang="Japanese" displayName="Voice - Benny" />
+		<text lang="Spanish" displayName="Voice - Benny" />
+		<text lang="French" displayName="Voice - Benny" />
+		<text lang="German" displayName="Voice - Benny" />
+		<text lang="Italian" displayName="Voice - Benny" />
+	</accessory>
+	<accessory id="104" name="KeatonVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Keaton" />
+		<text lang="Japanese" displayName="Voice - Keaton" />
+		<text lang="Spanish" displayName="Voice - Keaton" />
+		<text lang="French" displayName="Voice - Keaton" />
+		<text lang="German" displayName="Voice - Keaton" />
+		<text lang="Italian" displayName="Voice - Keaton" />
+	</accessory>
+	<accessory id="105" name="ArthurVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Arthur" />
+		<text lang="Japanese" displayName="Voice - Arthur" />
+		<text lang="Spanish" displayName="Voice - Arthur" />
+		<text lang="French" displayName="Voice - Arthur" />
+		<text lang="German" displayName="Voice - Arthur" />
+		<text lang="Italian" displayName="Voice - Arthur" />
+	</accessory>
+	<accessory id="106" name="OdinVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Odin" />
+		<text lang="Japanese" displayName="Voice - Odin" />
+		<text lang="Spanish" displayName="Voice - Odin" />
+		<text lang="French" displayName="Voice - Odin" />
+		<text lang="German" displayName="Voice - Odin" />
+		<text lang="Italian" displayName="Voice - Odin" />
+	</accessory>
+	<accessory id="107" name="LaslowVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Laslow" />
+		<text lang="Japanese" displayName="Voice - Laslow" />
+		<text lang="Spanish" displayName="Voice - Laslow" />
+		<text lang="French" displayName="Voice - Laslow" />
+		<text lang="German" displayName="Voice - Laslow" />
+		<text lang="Italian" displayName="Voice - Laslow" />
+	</accessory>
+	<accessory id="108" name="NilesVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Niles" />
+		<text lang="Japanese" displayName="Voice - Niles" />
+		<text lang="Spanish" displayName="Voice - Niles" />
+		<text lang="French" displayName="Voice - Niles" />
+		<text lang="German" displayName="Voice - Niles" />
+		<text lang="Italian" displayName="Voice - Niles" />
+	</accessory>
+	<accessory id="109" name="FeliciaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Felicia" />
+		<text lang="Japanese" displayName="Voice - Felicia" />
+		<text lang="Spanish" displayName="Voice - Felicia" />
+		<text lang="French" displayName="Voice - Felicia" />
+		<text lang="German" displayName="Voice - Felicia" />
+		<text lang="Italian" displayName="Voice - Felicia" />
+	</accessory>
+	<accessory id="110" name="AzuraVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Azura" />
+		<text lang="Japanese" displayName="Voice - Azura" />
+		<text lang="Spanish" displayName="Voice - Azura" />
+		<text lang="French" displayName="Voice - Azura" />
+		<text lang="German" displayName="Voice - Azura" />
+		<text lang="Italian" displayName="Voice - Azura" />
+	</accessory>
+	<accessory id="111" name="MozuVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Mozu" />
+		<text lang="Japanese" displayName="Voice - Mozu" />
+		<text lang="Spanish" displayName="Voice - Mozu" />
+		<text lang="French" displayName="Voice - Mozu" />
+		<text lang="German" displayName="Voice - Mozu" />
+		<text lang="Italian" displayName="Voice - Mozu" />
+	</accessory>
+	<accessory id="112" name="HinokaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Hinoka" />
+		<text lang="Japanese" displayName="Voice - Hinoka" />
+		<text lang="Spanish" displayName="Voice - Hinoka" />
+		<text lang="French" displayName="Voice - Hinoka" />
+		<text lang="German" displayName="Voice - Hinoka" />
+		<text lang="Italian" displayName="Voice - Hinoka" />
+	</accessory>
+	<accessory id="113" name="SakuraVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Sakura" />
+		<text lang="Japanese" displayName="Voice - Sakura" />
+		<text lang="Spanish" displayName="Voice - Sakura" />
+		<text lang="French" displayName="Voice - Sakura" />
+		<text lang="German" displayName="Voice - Sakura" />
+		<text lang="Italian" displayName="Voice - Sakura" />
+	</accessory>
+	<accessory id="114" name="OrochiVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Orochi" />
+		<text lang="Japanese" displayName="Voice - Orochi" />
+		<text lang="Spanish" displayName="Voice - Orochi" />
+		<text lang="French" displayName="Voice - Orochi" />
+		<text lang="German" displayName="Voice - Orochi" />
+		<text lang="Italian" displayName="Voice - Orochi" />
+	</accessory>
+	<accessory id="115" name="KageroVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Kagero" />
+		<text lang="Japanese" displayName="Voice - Kagero" />
+		<text lang="Spanish" displayName="Voice - Kagero" />
+		<text lang="French" displayName="Voice - Kagero" />
+		<text lang="German" displayName="Voice - Kagero" />
+		<text lang="Italian" displayName="Voice - Kagero" />
+	</accessory>
+	<accessory id="116" name="HanaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Hana" />
+		<text lang="Japanese" displayName="Voice - Hana" />
+		<text lang="Spanish" displayName="Voice - Hana" />
+		<text lang="French" displayName="Voice - Hana" />
+		<text lang="German" displayName="Voice - Hana" />
+		<text lang="Italian" displayName="Voice - Hana" />
+	</accessory>
+	<accessory id="117" name="SetsunaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Setsuna" />
+		<text lang="Japanese" displayName="Voice - Setsuna" />
+		<text lang="Spanish" displayName="Voice - Setsuna" />
+		<text lang="French" displayName="Voice - Setsuna" />
+		<text lang="German" displayName="Voice - Setsuna" />
+		<text lang="Italian" displayName="Voice - Setsuna" />
+	</accessory>
+	<accessory id="118" name="ReinaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Reina" />
+		<text lang="Japanese" displayName="Voice - Reina" />
+		<text lang="Spanish" displayName="Voice - Reina" />
+		<text lang="French" displayName="Voice - Reina" />
+		<text lang="German" displayName="Voice - Reina" />
+		<text lang="Italian" displayName="Voice - Reina" />
+	</accessory>
+	<accessory id="119" name="OboroVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Oboro" />
+		<text lang="Japanese" displayName="Voice - Oboro" />
+		<text lang="Spanish" displayName="Voice - Oboro" />
+		<text lang="French" displayName="Voice - Oboro" />
+		<text lang="German" displayName="Voice - Oboro" />
+		<text lang="Italian" displayName="Voice - Oboro" />
+	</accessory>
+	<accessory id="120" name="CamillaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Camilla" />
+		<text lang="Japanese" displayName="Voice - Camilla" />
+		<text lang="Spanish" displayName="Voice - Camilla" />
+		<text lang="French" displayName="Voice - Camilla" />
+		<text lang="German" displayName="Voice - Camilla" />
+		<text lang="Italian" displayName="Voice - Camilla" />
+	</accessory>
+	<accessory id="121" name="EliseVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Elise" />
+		<text lang="Japanese" displayName="Voice - Elise" />
+		<text lang="Spanish" displayName="Voice - Elise" />
+		<text lang="French" displayName="Voice - Elise" />
+		<text lang="German" displayName="Voice - Elise" />
+		<text lang="Italian" displayName="Voice - Elise" />
+	</accessory>
+	<accessory id="122" name="CharlotteVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Charlotte" />
+		<text lang="Japanese" displayName="Voice - Charlotte" />
+		<text lang="Spanish" displayName="Voice - Charlotte" />
+		<text lang="French" displayName="Voice - Charlotte" />
+		<text lang="German" displayName="Voice - Charlotte" />
+		<text lang="Italian" displayName="Voice - Charlotte" />
+	</accessory>
+	<accessory id="123" name="EffieVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Effie" />
+		<text lang="Japanese" displayName="Voice - Effie" />
+		<text lang="Spanish" displayName="Voice - Effie" />
+		<text lang="French" displayName="Voice - Effie" />
+		<text lang="German" displayName="Voice - Effie" />
+		<text lang="Italian" displayName="Voice - Effie" />
+	</accessory>
+	<accessory id="124" name="PeriVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Peri" />
+		<text lang="Japanese" displayName="Voice - Peri" />
+		<text lang="Spanish" displayName="Voice - Peri" />
+		<text lang="French" displayName="Voice - Peri" />
+		<text lang="German" displayName="Voice - Peri" />
+		<text lang="Italian" displayName="Voice - Peri" />
+	</accessory>
+	<accessory id="125" name="BerukaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Beruka" />
+		<text lang="Japanese" displayName="Voice - Beruka" />
+		<text lang="Spanish" displayName="Voice - Beruka" />
+		<text lang="French" displayName="Voice - Beruka" />
+		<text lang="German" displayName="Voice - Beruka" />
+		<text lang="Italian" displayName="Voice - Beruka" />
+	</accessory>
+	<accessory id="126" name="SelenaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Selena" />
+		<text lang="Japanese" displayName="Voice - Selena" />
+		<text lang="Spanish" displayName="Voice - Selena" />
+		<text lang="French" displayName="Voice - Selena" />
+		<text lang="German" displayName="Voice - Selena" />
+		<text lang="Italian" displayName="Voice - Selena" />
+	</accessory>
+	<accessory id="127" name="NyxVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Nyx" />
+		<text lang="Japanese" displayName="Voice - Nyx" />
+		<text lang="Spanish" displayName="Voice - Nyx" />
+		<text lang="French" displayName="Voice - Nyx" />
+		<text lang="German" displayName="Voice - Nyx" />
+		<text lang="Italian" displayName="Voice - Nyx" />
+	</accessory>
+	<accessory id="128" name="KanaFVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Kana (F)" />
+		<text lang="Japanese" displayName="Voice - Kana (F)" />
+		<text lang="Spanish" displayName="Voice - Kana (F)" />
+		<text lang="French" displayName="Voice - Kana (F)" />
+		<text lang="German" displayName="Voice - Kana (F)" />
+		<text lang="Italian" displayName="Voice - Kana (F)" />
+	</accessory>
+	<accessory id="129" name="KanaMVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Kana (M)" />
+		<text lang="Japanese" displayName="Voice - Kana (M)" />
+		<text lang="Spanish" displayName="Voice - Kana (M)" />
+		<text lang="French" displayName="Voice - Kana (M)" />
+		<text lang="German" displayName="Voice - Kana (M)" />
+		<text lang="Italian" displayName="Voice - Kana (M)" />
+	</accessory>
+	<accessory id="130" name="ShigureVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Shigure" />
+		<text lang="Japanese" displayName="Voice - Shigure" />
+		<text lang="Spanish" displayName="Voice - Shigure" />
+		<text lang="French" displayName="Voice - Shigure" />
+		<text lang="German" displayName="Voice - Shigure" />
+		<text lang="Italian" displayName="Voice - Shigure" />
+	</accessory>
+	<accessory id="131" name="DwyerVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Dwyer" />
+		<text lang="Japanese" displayName="Voice - Dwyer" />
+		<text lang="Spanish" displayName="Voice - Dwyer" />
+		<text lang="French" displayName="Voice - Dwyer" />
+		<text lang="German" displayName="Voice - Dwyer" />
+		<text lang="Italian" displayName="Voice - Dwyer" />
+	</accessory>
+	<accessory id="132" name="SophieVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Sophie" />
+		<text lang="Japanese" displayName="Voice - Sophie" />
+		<text lang="Spanish" displayName="Voice - Sophie" />
+		<text lang="French" displayName="Voice - Sophie" />
+		<text lang="German" displayName="Voice - Sophie" />
+		<text lang="Italian" displayName="Voice - Sophie" />
+	</accessory>
+	<accessory id="133" name="MidoriVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Midori" />
+		<text lang="Japanese" displayName="Voice - Midori" />
+		<text lang="Spanish" displayName="Voice - Midori" />
+		<text lang="French" displayName="Voice - Midori" />
+		<text lang="German" displayName="Voice - Midori" />
+		<text lang="Italian" displayName="Voice - Midori" />
+	</accessory>
+	<accessory id="134" name="ShiroVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Shiro" />
+		<text lang="Japanese" displayName="Voice - Shiro" />
+		<text lang="Spanish" displayName="Voice - Shiro" />
+		<text lang="French" displayName="Voice - Shiro" />
+		<text lang="German" displayName="Voice - Shiro" />
+		<text lang="Italian" displayName="Voice - Shiro" />
+	</accessory>
+	<accessory id="135" name="KiragiVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Kiragi" />
+		<text lang="Japanese" displayName="Voice - Kiragi" />
+		<text lang="Spanish" displayName="Voice - Kiragi" />
+		<text lang="French" displayName="Voice - Kiragi" />
+		<text lang="German" displayName="Voice - Kiragi" />
+		<text lang="Italian" displayName="Voice - Kiragi" />
+	</accessory>
+	<accessory id="136" name="AsugiVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Asugi" />
+		<text lang="Japanese" displayName="Voice - Asugi" />
+		<text lang="Spanish" displayName="Voice - Asugi" />
+		<text lang="French" displayName="Voice - Asugi" />
+		<text lang="German" displayName="Voice - Asugi" />
+		<text lang="Italian" displayName="Voice - Asugi" />
+	</accessory>
+	<accessory id="137" name="SelkieVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Selkie" />
+		<text lang="Japanese" displayName="Voice - Selkie" />
+		<text lang="Spanish" displayName="Voice - Selkie" />
+		<text lang="French" displayName="Voice - Selkie" />
+		<text lang="German" displayName="Voice - Selkie" />
+		<text lang="Italian" displayName="Voice - Selkie" />
+	</accessory>
+	<accessory id="138" name="HisameVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Hisame" />
+		<text lang="Japanese" displayName="Voice - Hisame" />
+		<text lang="Spanish" displayName="Voice - Hisame" />
+		<text lang="French" displayName="Voice - Hisame" />
+		<text lang="German" displayName="Voice - Hisame" />
+		<text lang="Italian" displayName="Voice - Hisame" />
+	</accessory>
+	<accessory id="139" name="MitamaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Mitama" />
+		<text lang="Japanese" displayName="Voice - Mitama" />
+		<text lang="Spanish" displayName="Voice - Mitama" />
+		<text lang="French" displayName="Voice - Mitama" />
+		<text lang="German" displayName="Voice - Mitama" />
+		<text lang="Italian" displayName="Voice - Mitama" />
+	</accessory>
+	<accessory id="140" name="CaeldoriVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Caeldori" />
+		<text lang="Japanese" displayName="Voice - Caeldori" />
+		<text lang="Spanish" displayName="Voice - Caeldori" />
+		<text lang="French" displayName="Voice - Caeldori" />
+		<text lang="German" displayName="Voice - Caeldori" />
+		<text lang="Italian" displayName="Voice - Caeldori" />
+	</accessory>
+	<accessory id="141" name="RhajatVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Rhajat" />
+		<text lang="Japanese" displayName="Voice - Rhajat" />
+		<text lang="Spanish" displayName="Voice - Rhajat" />
+		<text lang="French" displayName="Voice - Rhajat" />
+		<text lang="German" displayName="Voice - Rhajat" />
+		<text lang="Italian" displayName="Voice - Rhajat" />
+	</accessory>
+	<accessory id="142" name="SiegbertVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Siegbert" />
+		<text lang="Japanese" displayName="Voice - Siegbert" />
+		<text lang="Spanish" displayName="Voice - Siegbert" />
+		<text lang="French" displayName="Voice - Siegbert" />
+		<text lang="German" displayName="Voice - Siegbert" />
+		<text lang="Italian" displayName="Voice - Siegbert" />
+	</accessory>
+	<accessory id="143" name="IgnatiusVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Ignatius" />
+		<text lang="Japanese" displayName="Voice - Ignatius" />
+		<text lang="Spanish" displayName="Voice - Ignatius" />
+		<text lang="French" displayName="Voice - Ignatius" />
+		<text lang="German" displayName="Voice - Ignatius" />
+		<text lang="Italian" displayName="Voice - Ignatius" />
+	</accessory>
+	<accessory id="144" name="ForrestVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Forrest" />
+		<text lang="Japanese" displayName="Voice - Forrest" />
+		<text lang="Spanish" displayName="Voice - Forrest" />
+		<text lang="French" displayName="Voice - Forrest" />
+		<text lang="German" displayName="Voice - Forrest" />
+		<text lang="Italian" displayName="Voice - Forrest" />
+	</accessory>
+	<accessory id="145" name="VelouriaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Velouria" />
+		<text lang="Japanese" displayName="Voice - Velouria" />
+		<text lang="Spanish" displayName="Voice - Velouria" />
+		<text lang="French" displayName="Voice - Velouria" />
+		<text lang="German" displayName="Voice - Velouria" />
+		<text lang="Italian" displayName="Voice - Velouria" />
+	</accessory>
+	<accessory id="146" name="PercyVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Percy" />
+		<text lang="Japanese" displayName="Voice - Percy" />
+		<text lang="Spanish" displayName="Voice - Percy" />
+		<text lang="French" displayName="Voice - Percy" />
+		<text lang="German" displayName="Voice - Percy" />
+		<text lang="Italian" displayName="Voice - Percy" />
+	</accessory>
+	<accessory id="147" name="OpheliaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Ophelia" />
+		<text lang="Japanese" displayName="Voice - Ophelia" />
+		<text lang="Spanish" displayName="Voice - Ophelia" />
+		<text lang="French" displayName="Voice - Ophelia" />
+		<text lang="German" displayName="Voice - Ophelia" />
+		<text lang="Italian" displayName="Voice - Ophelia" />
+	</accessory>
+	<accessory id="148" name="SoleilVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Soleil" />
+		<text lang="Japanese" displayName="Voice - Soleil" />
+		<text lang="Spanish" displayName="Voice - Soleil" />
+		<text lang="French" displayName="Voice - Soleil" />
+		<text lang="German" displayName="Voice - Soleil" />
+		<text lang="Italian" displayName="Voice - Soleil" />
+	</accessory>
+	<accessory id="149" name="NinaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Nina" />
+		<text lang="Japanese" displayName="Voice - Nina" />
+		<text lang="Spanish" displayName="Voice - Nina" />
+		<text lang="French" displayName="Voice - Nina" />
+		<text lang="German" displayName="Voice - Nina" />
+		<text lang="Italian" displayName="Voice - Nina" />
+	</accessory>
+	<accessory id="150" name="ShuraVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Shura" />
+		<text lang="Japanese" displayName="Voice - Shura" />
+		<text lang="Spanish" displayName="Voice - Shura" />
+		<text lang="French" displayName="Voice - Shura" />
+		<text lang="German" displayName="Voice - Shura" />
+		<text lang="Italian" displayName="Voice - Shura" />
+	</accessory>
+	<accessory id="151" name="FugaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Fuga" />
+		<text lang="Japanese" displayName="Voice - Fuga" />
+		<text lang="Spanish" displayName="Voice - Fuga" />
+		<text lang="French" displayName="Voice - Fuga" />
+		<text lang="German" displayName="Voice - Fuga" />
+		<text lang="Italian" displayName="Voice - Fuga" />
+	</accessory>
+	<accessory id="152" name="YukimuraVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Yukimura" />
+		<text lang="Japanese" displayName="Voice - Yukimura" />
+		<text lang="Spanish" displayName="Voice - Yukimura" />
+		<text lang="French" displayName="Voice - Yukimura" />
+		<text lang="German" displayName="Voice - Yukimura" />
+		<text lang="Italian" displayName="Voice - Yukimura" />
+	</accessory>
+	<accessory id="153" name="IzanaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Izana" />
+		<text lang="Japanese" displayName="Voice - Izana" />
+		<text lang="Spanish" displayName="Voice - Izana" />
+		<text lang="French" displayName="Voice - Izana" />
+		<text lang="German" displayName="Voice - Izana" />
+		<text lang="Italian" displayName="Voice - Izana" />
+	</accessory>
+	<accessory id="154" name="GunterVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Gunter" />
+		<text lang="Japanese" displayName="Voice - Gunter" />
+		<text lang="Spanish" displayName="Voice - Gunter" />
+		<text lang="French" displayName="Voice - Gunter" />
+		<text lang="German" displayName="Voice - Gunter" />
+		<text lang="Italian" displayName="Voice - Gunter" />
+	</accessory>
+	<accessory id="155" name="RinkahVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Rinkah" />
+		<text lang="Japanese" displayName="Voice - Rinkah" />
+		<text lang="Spanish" displayName="Voice - Rinkah" />
+		<text lang="French" displayName="Voice - Rinkah" />
+		<text lang="German" displayName="Voice - Rinkah" />
+		<text lang="Italian" displayName="Voice - Rinkah" />
+	</accessory>
+	<accessory id="156" name="AnnaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Anna" />
+		<text lang="Japanese" displayName="Voice - Anna" />
+		<text lang="Spanish" displayName="Voice - Anna" />
+		<text lang="French" displayName="Voice - Anna" />
+		<text lang="German" displayName="Voice - Anna" />
+		<text lang="Italian" displayName="Voice - Anna" />
+	</accessory>
+	<accessory id="157" name="ScarletVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Scarlet" />
+		<text lang="Japanese" displayName="Voice - Scarlet" />
+		<text lang="Spanish" displayName="Voice - Scarlet" />
+		<text lang="French" displayName="Voice - Scarlet" />
+		<text lang="German" displayName="Voice - Scarlet" />
+		<text lang="Italian" displayName="Voice - Scarlet" />
+	</accessory>
+	<accessory id="158" name="FloraVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Flora" />
+		<text lang="Japanese" displayName="Voice - Flora" />
+		<text lang="Spanish" displayName="Voice - Flora" />
+		<text lang="French" displayName="Voice - Flora" />
+		<text lang="German" displayName="Voice - Flora" />
+		<text lang="Italian" displayName="Voice - Flora" />
+	</accessory>
+	<accessory id="159" name="MarthVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Marth" />
+		<text lang="Japanese" displayName="Voice - Marth" />
+		<text lang="Spanish" displayName="Voice - Marth" />
+		<text lang="French" displayName="Voice - Marth" />
+		<text lang="German" displayName="Voice - Marth" />
+		<text lang="Italian" displayName="Voice - Marth" />
+	</accessory>
+	<accessory id="160" name="IkeVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Ike" />
+		<text lang="Japanese" displayName="Voice - Ike" />
+		<text lang="Spanish" displayName="Voice - Ike" />
+		<text lang="French" displayName="Voice - Ike" />
+		<text lang="German" displayName="Voice - Ike" />
+		<text lang="Italian" displayName="Voice - Ike" />
+	</accessory>
+	<accessory id="161" name="RobinVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Robin" />
+		<text lang="Japanese" displayName="Voice - Robin" />
+		<text lang="Spanish" displayName="Voice - Robin" />
+		<text lang="French" displayName="Voice - Robin" />
+		<text lang="German" displayName="Voice - Robin" />
+		<text lang="Italian" displayName="Voice - Robin" />
+	</accessory>
+	<accessory id="162" name="LucinaVoice" type="Underwear">
+		<text lang="English" displayName="Voice - Lucina" />
+		<text lang="Japanese" displayName="Voice - Lucina" />
+		<text lang="Spanish" displayName="Voice - Lucina" />
+		<text lang="French" displayName="Voice - Lucina" />
+		<text lang="German" displayName="Voice - Lucina" />
+		<text lang="Italian" displayName="Voice - Lucina" />
+	</accessory>
+	<accessory id="163" name="Mute" type="Underwear">
+		<text lang="English" displayName="Mute" />
+		<text lang="Japanese" displayName="Mute" />
+		<text lang="Spanish" displayName="Mute" />
+		<text lang="French" displayName="Mute" />
+		<text lang="German" displayName="Mute" />
+		<text lang="Italian" displayName="Mute" />
+	</accessory>
   <!--
   Template:
   <accessory id="0" name="InternalName" type="None">
