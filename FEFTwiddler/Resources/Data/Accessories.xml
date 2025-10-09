@@ -1304,14 +1304,6 @@
 		<text lang="German" displayName="Voice - Lucina" />
 		<text lang="Italian" displayName="Voice - Lucina" />
 	</accessory>
-	<accessory id="163" name="Mute" type="Underwear">
-		<text lang="English" displayName="Mute" />
-		<text lang="Japanese" displayName="Mute" />
-		<text lang="Spanish" displayName="Mute" />
-		<text lang="French" displayName="Mute" />
-		<text lang="German" displayName="Mute" />
-		<text lang="Italian" displayName="Mute" />
-	</accessory>
   <!--
   Template:
   <accessory id="0" name="InternalName" type="None">
